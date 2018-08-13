@@ -31,6 +31,7 @@
 .adkmob.com
 .admanmedia.com
 .admy.link
+.ads.eltiempo.co
 .adshort.co
 .adsrvr.org
 .adyou.m
@@ -52,6 +53,7 @@
 .amzn.to
 .animalfotopcfi.com
 .aniproxysafewebdesign.com
+.aniview.com
 .anomnitscoastal.com
 .anonymizer.nntime.com
 .anonymouse.org
@@ -101,7 +103,9 @@
 .bit.do
 .bit.ly
 .bitly.com
+.bitstamp.net
 .bitvise.com
+.bkrtx.com
 .bl-1.com
 .blackplanet.com
 .blewpass.com
@@ -212,6 +216,7 @@
 .cro.pm
 .cross.tv
 .croxyproxy.com
+.cuon.io
 .customermatds.com
 .cutout.es
 .cxense.com
@@ -417,7 +422,6 @@
 .helperbar.com
 .hhtxnet.com
 .hi5.com
-.hicloud.com
 .hideipprivacy.com
 .hide.me
 .hideme.be
@@ -535,6 +539,7 @@
 .krxd.net
 .ksmobile.net
 .labelsmultimediablutable.com
+.landon.today
 .last.fm
 .launchfaqworthtoyou.com
 .lbfan.org
@@ -563,6 +568,7 @@
 .live-k33.com
 .lix.in
 .lknsuite.com
+.lkqd.com
 .lmodr.biz
 .loginto.me
 .londonwaysoblack.com
@@ -631,6 +637,7 @@
 .mocospace.com
 .monstersngbarerating.com
 .mookie1.com
+.mopub.com
 .moviesreportevemorning.com
 .mp3.es
 .msgamestudios.com
@@ -786,6 +793,7 @@
 .p.pw
 .pq-chat.com
 .pr0gramm.com
+.preyproject.com
 .privateinternetaccess.com
 .privatevpn.com
 .privatizehealthinsurance.net
@@ -877,6 +885,7 @@
 .rxproxy.com
 .ryze.com
 .s2.symcb.com
+.sdpaste.com
 .safesear.ch
 .salonunolevelen.com
 .sanminer.es
@@ -891,6 +900,7 @@
 .scottfinancefriendsavings.com
 .searchcompletion.com
 .securitytactics.com
+.sectordescargas.com
 .servebeer.com
 .serveblog.net
 .servecounterstrike.com
@@ -1098,7 +1108,6 @@
 .unusualperson.com
 .uploadstation.com
 .uptodown.com
-.ur.ly
 .urchintelemetry.com
 .urladda.co
 .urlbaba.com
@@ -1106,6 +1115,7 @@
 .urletconlynyc.com
 .urlof.site
 .urlsh.me
+.ur.ly
 .usessh001.com
 .uswebproxy.com
 .utilities.com
@@ -1158,6 +1168,7 @@
 .weheartit.com
 .weibo.com
 .whaa.tk
+.whichlike.com
 .whizurl.com
 .whoer.net
 .whq.org.uk

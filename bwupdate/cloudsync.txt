@@ -2066,6 +2066,7 @@
 .upgrades.syncthing.net
 # various
 .app.mover.io
+.hicloud.com
 .wetransfer.com
 .ox-d.wetransfer.com
 .multcloud.com

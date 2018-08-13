@@ -466,6 +466,7 @@
 .ultranet
 .united
 .update
+.upm
 ..vandepotgerukt
 .vbe
 .vbs

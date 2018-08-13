@@ -36,9 +36,9 @@ echo
 echo "Checking Sum..."
 a=$(md5sum blackweb.txt | awk '{print $1}')
 b=$(cat blackweb.md5 | awk '{print $1}')
-        if [ "$a" = "$b" ]
-        then
-                echo "Sum Matches"
+	if [ "$a" = "$b" ]
+	then
+		echo "Sum Matches"
 		# ADD OWN LIST
 		#sed '/^$/d; / *#/d' /path/blackweb_own.txt >> blackweb.txt
 		cp -f  blackweb.txt $route/blackweb.txt >/dev/null 2>&1

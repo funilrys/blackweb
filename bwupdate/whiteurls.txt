@@ -23871,6 +23871,7 @@
 .boost.microsoft.com
 .bootstrap-staging.westus.cloudapp.azure.com
 .bo.promotions.skype.com
+.borntolearn.mslearn.net
 .boreyapp.eastus.cloudapp.azure.com
 .borrowitdocusign.microsoft.com
 .borrowit.microsoft.com
@@ -32963,6 +32964,7 @@
 .msitsonar.southeastasia.cloudapp.azure.com
 .msitsvccatdit.parttest.extranettest.microsoft.com
 .mskeys.microsoft.com
+.mslearn.net
 .mslearning.microsoft.com
 .mslextsharesbeta.partners.extranet.microsoft.com
 .mslextsharesbeta.redmond.corp.microsoft.com
@@ -38918,6 +38920,7 @@
 .skype.com
 .skype.co.uk
 .skype.eu
+.skypeassets.com
 .skypeforbusiness.com
 .skypegraph.skype.com
 .Skypegraph.skype.com
@@ -46888,6 +46891,7 @@
 .waitematadhb.govt.nz
 .worksafe.govt.nz
 # GOV.CO
+.armada.mil.co
 .adres.gov.co
 .altocomisionadoparalapaz.gov.co
 .ane.gov.co
@@ -47027,8 +47031,10 @@
 .vive.ciudadaniadigital.gov.co
 .vivedigital.gov.co
 .wssisbenconsulta.sisben.gov.co
+.webrp.policia.gov.co
+.srvpsi.policia.gov.co
+.adenunciar.policia.gov.co
 .yondo.gov.co
-.armada.mil.co
 # EDU
 .aaa.edu
 .aauj.edu
@@ -50750,14 +50756,17 @@
 .videosprimaria.unir.net
 .videos.unir.net
 .wa.innova.unir.net
-# BANKSPAY
+# BANKS-PAY
 .1to1.bbva.com
 .53.com
+.abretucuenta.bancodebogota.com.co
+.abretucuenta-staging.bancodebogota.com.co
 .acceso.argentina.citigold.citibank.com
 .access.bbva.com
 .accionistaseinversores.bbva.com
 .accountonline.citibank.com
 .ach.westernunion.com
+.adp.bancodebogota.com.co
 .adquiereloya.bbva.com.co
 .agentconfig.westernunion.com
 .agentportal.westernunion.com
@@ -50767,16 +50776,24 @@
 .amcore.com
 .americafirst.com
 .an.westernunion.com
+.ao.api.bancodebogota.com.co
 .apac-traffic1.support.westernunion.com
+.api.bancodebogota.com.co
 .api.bbva.com
 .api.business.westernunion.com
 .api.demo.business.westernunion.com
 .api.dev.globalpay.westernunion.com
+.api-gateway.bancodebogota.com.co
+.apigateway-staging.bancodebogota.com.co
+.apigatewaystaging.bancodebogota.com.co
 .api.qa.globalpay.westernunion.com
 .api.sandbox.westernunion.com
 .apis.bbva.com
+.api-staging.bancodebogota.com.co
 .api.uat.globalpay.westernunion.com
 .api.westernunion.com
+.aplicacion.bancodebogota.com.co
+.aplicacionpru.bancodebogota.com.co
 .app.bbva.com
 .arc.westernunion.com
 .argentina.citibank.com
@@ -50790,11 +50807,17 @@
 .asoexternos.bbva.com.co
 .associatedbank.com
 .astoriafederal.com
+.authenticator-staging.bancodebogota.com.co
+.authenticatorweb.bancodebogota.com.co
+.authenticatorweb-staging.bancodebogota.com.co
 .auth.globalpay.westernunion.com
+.autodiscover.bancodebogota.com.co
 .autoservicios1.bbva.com
 .autoservicios.bbva.com
 .awg2.test.westernunion.com
 .ayuda.nequi.com.co
+.b2b1.bancodebogota.com.co
+.b2b2.bancodebogota.com.co
 .b2bservices.citibank.com
 .bancodebogota.com
 .bancodebogota.com.co
@@ -50895,6 +50918,7 @@
 .chase.com
 .chat.apac.citibank.com
 .chat.argentina.citibank.com
+.chatpb.bancodebogota.com.co
 .chat.uat1.idgcb.globalcommonbuild.citibank.com
 .chat.uat1.mygcb.globalcommonbuild.citibank.com
 .chat.uat1.phgcb.globalcommonbuild.citibank.com
@@ -51025,6 +51049,7 @@
 .comprasypagospse.com
 .concentra.bbva.com
 .conecta.nequi.com.co
+.conexionenlinea.bancodebogota.com
 .confluence.globalitprocess.bbva.com
 .connect.bbva.com
 .connect.secure.wellsfargo.com
@@ -51042,9 +51067,13 @@
 .corporateportal.uatbrazil.citibank.com
 .corporate.uatbrazil.citibank.com
 .corporate.westernunion.com
+.corp.web.bancodebogota.com.co
 .correosegurobbta.bancodebogota.com
 .corusbank.com
 .cre.bbva.com
+.creditodevehiculos.bancodebogota.com
+.creditodigital.bancodebogota.com
+.creditodigital.bancodebogota.com.co
 .crssalesforce.prod.citibank.com
 .crssalesforceuat.citibank.com
 .cryptoserver.prd.watermark.br.citibank.com
@@ -51069,10 +51098,13 @@
 .custhelp.westernunion.com
 .custsupport.westernunion.com
 .cz.westernunion.com
+.dashboardlab.bancodebogota.com.co
+.dataofficebdb.bancodebogota.com
 .daviviendapaypal.com
 .db.com
 .de.bbva.com
 .demo.business.westernunion.com
+.democanales.bancodebogota.com.co
 .demo.globalpay.westernunion.com
 .demo.payee.globalpay.westernunion.com
 .demo.webservices.globalpay.westernunion.com
@@ -51081,12 +51113,18 @@
 .design.bbva.com
 .desktops.westernunion.com
 .desktop.westernunion.com
+.detidqa.bancodebogota.com.co
 .devcpwm.citibank.com
 .developer.bbva.com
 .developers.bbva.com
 .dev.globaldevtools.bbva.com
 .devqatar.westernunion.com
+.dialin.bancodebogota.com.co
+.did.bancodebogota.com.co
+.digital.bancodebogota.com
+.digital.bancodebogota.com.co
 .digitalengagement.citibank.com
+.digitalid.bancodebogota.com.co
 .digitalmarketing.preview.citibank.com
 .digital.westernunion.com
 .dir.citibank.com
@@ -51137,6 +51175,8 @@
 .easternbank.com
 .eastwestbank.com
 .easypayments.china.citibank.com
+.easysol.net
+.detectca.easysol.net
 .e-bbva.com.co
 .e-bbvanetcash.com.co
 .ebrokerage.citibank.com
@@ -51171,6 +51211,8 @@
 .em.westernunion.com
 .english.bbva.com
 .enlace-apb.com
+.eoffice.bancodebogota.com.co
+.eofficeweb.bancodebogota.com.co
 .esd.westernunion.com
 .esinmateservices.westernunion.com
 .europe.citigold.citibank.com
@@ -51181,6 +51223,7 @@
 .experiencia.bbva.com
 .Experiencia.bbva.com
 .Experiencia.BBVA.com
+.factoring.bancodebogota.com.co
 .factoring.bbva.com.co
 .facturacioncommunications.bbva.com
 .failover.westernunion.com
@@ -51188,6 +51231,7 @@
 .fastlink.citibank.com
 .fbopcorporation.com
 .fcfbank.com
+.febb.bancodebogota.com
 .feedback.citibank.com
 .fidocs.bbva.com
 .fileservices2.citibank.com
@@ -51214,6 +51258,8 @@
 .foundationblog.westernunion.com
 .foundation.westernunion.com
 .frostbank.com
+.ftp.bancodebogota.com.co
+.FTP.BANCODEBOGOTA.COM.CO
 .fult.com
 .fxdocs.cititreasury.argentina.citibank.com
 .fxwebcheque.westernunion.com
@@ -51279,6 +51325,7 @@
 .ibc.com
 .iberiabank.com
 .ibl.globalpay.westernunion.com
+.icsbog.bancodebogota.com
 .ideacenter.bbva.com
 .idmobile.gcb.globalcommonbuild.uat1.citibank.com
 .idmobile.gcb.globalcommonbuild.uat2.citibank.com
@@ -51322,6 +51369,7 @@
 .jamaica.westernunion.com
 .johnsonbank.com
 .keybank.com
+.keys.bancodebogota.com.co
 .kiosk-sandbox.westernunion.com
 .kiosk.westernunion.com
 .kuwait.westernunion.com
@@ -51331,6 +51379,7 @@
 .lehman.com
 .l.emailmessage2.citibank.com
 .l.emailoffers2.citibank.com
+.libranzadigital.bancodebogota.com.co
 .locations.citibank.com
 .locations-test.westernunion.com
 .locations.westernunion.com
@@ -51338,6 +51387,8 @@
 .login.sf.transaccionesbancolombia.com
 .lookbook.westernunion.com
 .l.serviceemail2.citibank.com
+.lwc.bancodebogota.com.co
+.lyncdiscover.bancodebogota.com.co
 .lyncdiscoverinternal.intl.westernunion.com
 .lyncdiscoverinternal.westernunion.com
 .lyncdiscover.intl.westernunion.com
@@ -51380,6 +51431,7 @@
 .m.citiprivatebankinviewqa.emea.privatebank.citibank.com
 .mdot.westernunion.com
 .m.ds.bbva.com.co
+.meet.bancodebogota.com.co
 .meeting-den.westernunion.com
 .meeting-fra.westernunion.com
 .meeting-hk.westernunion.com
@@ -51423,8 +51475,13 @@
 .momentum.bbva.com
 .morocco.westernunion.com
 .mortgage.citibank.com
+.movil.bancodebogota.com.co
+.movilidad.bancodebogota.com.co
+.movilidadqa.bancodebogota.com
+.movilpru.bancodebogota.com.co
 .mpsweb.dev.globalpay.westernunion.com
 .m.qa.bbva.com.co
+.MQFDBTA.bancodebogota.com
 .ms.globalitprocess.bbva.com
 .mt2.westernunion.com
 .mtcnc.westernunion.com
@@ -51484,6 +51541,7 @@
 .openspace.bbva.com
 .opensummit.bbva.com
 .opentalent.bbva.com
+.operationsdashboard.bancodebogota.com.co
 .opportunity.bbva.com.co
 .optimizationlearnings.bbva.com
 .orderqa5.fi.westernunion.com
@@ -51528,6 +51586,7 @@
 .payoutgateway.westernunion.com
 .paypal.com
 .PayPal.com
+.pbit.bancodebogota.com.co
 .pcbancorp.com
 .pcibox.bbva.com
 .pcttomux.westernunion.com
@@ -51542,9 +51601,14 @@
 .plansencillez.bbva.com
 .platform.bbva.com
 .pncbank.com
+.portalafinidad.bancodebogota.com.co
+.portal.bancodebogota.com
+.portaldelibranzas.bancodebogota.com.co
+.portalpe.bancodebogota.com.co
 .portalsvd.bbva.com
 .portalwifi.bbva.com.co
 .postest.westernunion.com
+.postventapje.bancodebogota.com
 .posuat.westernunion.com
 .pos.westernunion.com
 .pre-facturacioncommunications.bbva.com
@@ -51574,12 +51638,15 @@
 .qacslsvcs.westernunion.com
 .qacustsupport.westernunion.com
 .qah2h.bbva.com
+.quieromitarjeta.bancodebogota.com.co
+.quieromitarjeta-staging.bancodebogota.com.co
 .rabobank.com
 .raymondjames.com
 .rbcbankusa.com
 .rb-sc.fi.westernunion.com
 .rbs.com
 .recarga.nequi.com.co
+.recaudoverdebdb.bancodebogota.com.co
 .receive.westernunion.com
 .red.argentina.citibank.com
 .redirectorc.westernunion.com
@@ -51605,6 +51672,9 @@
 .retailunit.westernunion.com
 .rewardcircle.westernunion.com
 .rewards.citibank.com
+.saccountopen.api.bancodebogota.com.co
+.saccountopen.bancodebogota.com.co
+.saccountopen-staging.bancodebogota.com.co
 .salamandra-api.bbva.com
 .sandbox.token-ci.westernunion.com
 .sandbox.token-rs.westernunion.com
@@ -51636,6 +51706,13 @@
 .senegal.westernunion.com
 .serviceemail1.citibank.com
 .serviceemail2.citibank.com
+.servicios1.bancodebogota.com.co
+.servicios.bancodebogota.com
+.servicios.bancodebogota.com.co
+.serviciospostventa.bancodebogota.com.co
+.serviciostm1.bancodebogota.com.co
+.Serviciostm2.bancodebogota.com.co
+.sgg.bancodebogota.com
 .SGH4040542.citibank.com
 .sgmobile.gcb.globalcommonbuild.uat1.citibank.com
 .sgmobile.gcb.globalcommonbuild.uat2.citibank.com
@@ -51656,7 +51733,12 @@
 .shim.citiprivatebankinviewqa.emea.privatebank.citibank.com
 .signon.citibank.com
 .simuladores.bbva.com.co
+.simulador-micreditodigital.bancodebogota.com
+.simulador-micreditodigital.bancodebogota.com.co
+.simuladorviviendadigital.bancodebogota.com.co
+.simulatuproducto.bancodebogota.com
 .SINCITINDM.citibank.com
+.sip.bancodebogota.com.co
 .sip.intl.westernunion.com
 .sip.westernunion.com
 .sit01.mobile.citibank.com
@@ -51726,6 +51808,7 @@
 .sms.uat.mobile.citibank.com
 .smtp1.bbvaganadero.com.co
 .smtp.bbvaganadero.com.co
+.smv.bancodebogota.com
 .soapdev.westernunion.com
 .soap.gatewaypi.westernunion.com
 .soap.gatewayuat.westernunion.com
@@ -51735,6 +51818,10 @@
 .softtokentpbnc.bbva.com
 .solipagosonline.com.co
 .spain.citibank.com
+.sph1.bancodebogota.com.co
+.sph.bancodebogota.com.co
+.sphp1.bancodebogota.com.co
+.sphp.bancodebogota.com.co
 .s.serviceemail2.citibank.com
 .ssowupos.westernunion.com
 .StaffingIA.bbva.com
@@ -51742,6 +51829,7 @@
 .static.beta.financialtools.citibank.com
 .static.financialtools.citibank.com
 .status.platform.bbva.com
+.st.bancodebogota.com.co
 .step.citibank.com
 .stocks.argentina.citibank.com
 .student.globalpay.wu.com
@@ -51752,10 +51840,18 @@
 .suppliers.bbva.com
 .support.westernunion.com
 .svb.com
+.swap3.bancodebogota.com.co
 .synovus.com
 .systemtest.citibankonline.citibank.com
 .SYSTEMTEST.CITIBANKONLINE.CITIBANK.COM
 .tarjeta.argentina.citibank.com
+.tarjetacredito.bancodebogota.com
+.tarjetacredito.bancodebogota.com.co
+.tcdigitaloffice.api.bancodebogota.com.co
+.tcdigitalofficebdb.api.bancodebogota.com.co
+.tcdigitalofficebdb.bancodebogota.com.co
+.tcdigitaloffice-staging.api.bancodebogota.com.co
+.tcdigitaloffice-staging.bancodebogota.com.co
 .tcfbank.com
 .tdbank.com
 .teletrabajo.bbva.com.co
@@ -51771,11 +51867,13 @@
 .thmobile.gcb.globalcommonbuild.uat2.citibank.com
 .thmobile.gcb.globalcommonbuild.uat.citibank.com
 .titusiii.westernunion.com
+.tm.bancodebogota.com.co
 .tmsdls.westernunion.com
 .tmsweb.westernunion.com
 .today.bbva.com
 .todo1.com
 .token-ci.westernunion.com
+.tokenmovilpru.bancodebogota.com.co
 .token-rs.westernunion.com
 .token.westernunion.com
 .t.paypal.com
@@ -51787,6 +51885,7 @@
 .transvision.westernunion.com
 .tr.ebrokerage.citibank.com
 .trustmark.com
+.tulibranzafacil.bancodebogota.com.co
 .tunisia.westernunion.com
 .uae.westernunion.com
 .uah2h.bbva.com
@@ -51895,6 +51994,7 @@
 .uat.usgcb.globalcommonbuild.citibank.com
 .uat.vngcb.globalcommonbuild.citibank.com
 .ubsi-wv.com
+.uc.bancodebogota.com.co
 .ucbi.com
 .ui.bbva.com
 .ukcardsapply.citibank.com
@@ -51919,6 +52019,7 @@
 .videoconfqa.americas.privatebank.citibank.com
 .view.communications.bbva.com
 .visorsvd.bbva.com
+.viviendadigital.bancodebogota.com.co
 .viviendaonline.bbva.com.co
 .vnmobile.gcb.globalcommonbuild.uat1.citibank.com
 .vnmobile.gcb.globalcommonbuild.uat2.citibank.com
@@ -51926,6 +52027,7 @@
 .voluntarioempleado.bbva.com
 .vpn.zonapagos.com
 .vt.bbva.com.co
+.wac.bancodebogota.com.co
 .wallet2prod.bbva.com.co
 .WalletBbvaCoPro.bbva.com.co
 .washingtonfederal.com
@@ -51939,8 +52041,10 @@
 .webcashmanagercitidirect.citibank.com
 .webcashmanagerstatestreet.citibank.com
 .webcashmanagerstatestreetuat.citibank.com
+.webconf.bancodebogota.com.co
 .web.da-us.citibank.com
 .webpublicas.bbva.com
+.webpyme.bancodebogota.com.co
 .webrtc.cate.citibank.com
 .webservices.globalpay.westernunion.com
 .websocket.americas.privatebank.citibank.com
@@ -65613,6 +65717,8 @@
 .l.ghostery.com
 .libretamilitar.mil.co
 .linea.ccb.org.co
+.linuxfoundation.org
+.linuxfoundation.s3-website-us-east-1.amazonaws.com
 .list-manage1.com
 .mailchimp.com
 .mail.protonmail.com
@@ -65664,6 +65770,7 @@
 .pgl.yoyo.org
 .photobucket.com
 .pila-asistida.com
+.pilawebasistida.com
 .portabilidad.coosalud.com
 .porvenir.com.co
 .ppa.launchpad.net
