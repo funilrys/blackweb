@@ -34,10 +34,12 @@
 .ads.eltiempo.co
 .adshort.co
 .adsrvr.org
+.adturtle.biz
 .adyou.m
 .afcnsfpd.com
 .affiliateaddgarage.com
 .affiliateframeeaglobal.com
+.afishaonline.eu
 .agegraphiclitphil.com
 .agencydation.org
 .agkn.com
@@ -55,8 +57,10 @@
 .aniproxysafewebdesign.com
 .aniview.com
 .anomnitscoastal.com
+.anony.men
 .anonymizer.nntime.com
 .anonymouse.org
+.anonymster.com
 .antasyleague.cc
 .anywherespaingr.com
 .appleholidaywallstreetsoccer.com
@@ -95,6 +99,7 @@
 .betplay.com.co
 .betternet.co
 .bidssheetcitizennovo.com
+.bigfile.to
 .binarynerdeastmo.com
 .binbox.io
 .bind2.com
@@ -226,9 +231,11 @@
 .d19ya6dk74n9uf.cloudfront.net
 .dailyanimalgames.com
 .dailymotion.com
+.dailyuploads.net
 .dallasegcomsoftware.com
 .damnserver.com
 .danwebhostingblackwell.com
+.datafilehost.com
 .datagravity.com
 .dclinks.info
 .ddnsking.com
@@ -238,6 +245,7 @@
 .deezer.com
 .del.icio.us
 .delta-homes.com
+.depositfiles.com
 .depositfiles.org
 .developmentfluidramoil.com
 .deviantart.com
@@ -369,6 +377,7 @@
 .freeexperiencelightningcat.com
 .freenetproject.org
 .free-proxy-list.net
+.freeproxyserver.co
 .freewarefiles.com
 .frerusdimannsia.com
 .frontberrygraphicafter.com
@@ -388,6 +397,7 @@
 .gamestorrents.to
 .ganadineroconencuestas.com
 .garenanow.com
+.gatherproxy.com
 .gearagereport.com
 .geekgalaxy.com
 .geni.us
@@ -398,6 +408,7 @@
 .glambingjumpsteps.com
 .glanacion.com
 .glpals.com
+.gmboxx.com
 .godkisssococ.com
 .goguyslitsimple.com
 .goldencharterdepotpure.com
@@ -417,6 +428,7 @@
 .habbo.com
 .haloapps.com
 .handjjsellinggold.com
+.haproxy.org
 .headsinglesfilmsvision.com
 .health-carereform.com
 .helperbar.com
@@ -427,6 +439,7 @@
 .hideme.be
 .hidemyass.com
 .hidemy.name
+.hidemyna.me
 .hideoxy.com
 .hidester.com
 .highwickedsailwc.com
@@ -495,8 +508,11 @@
 .internetrentgallerycove.com
 .iowabeammysocial.com
 .ipadsharesinvestchic.com
+.ipleak.net
 .ipredictive.com
 .ips.me
+.ipv6forum.com
+.ipv6proxy.net
 .ipvanish.com
 .iqpkvtcab.info
 .irandigitalfivestarru.com
@@ -570,6 +586,7 @@
 .lknsuite.com
 .lkqd.com
 .lmodr.biz
+.localhost.com
 .loginto.me
 .londonwaysoblack.com
 .losangelesgunraall.com
@@ -618,6 +635,8 @@
 .minecrunch.co
 .minernewage.com
 .miniclip.com
+.mirrored.to
+.mitmproxy.org
 .mixi.jp
 .mjspecialsiwebadvisors.com
 .ml314.com
@@ -632,6 +651,7 @@
 .mob.com
 .mobileninekeeperauthority.com
 .mobjcopyvo.com
+.mobm1.info
 .mobreaderchurchgreen.com
 .mobsmovement.com
 .mocospace.com
@@ -684,6 +704,7 @@
 .newhometab.com
 .newipnow.com
 .newminersage.com
+.newsrental.net
 .newyorkistportableprecision.com
 .nexage.com
 .nflfan.org
@@ -791,6 +812,7 @@
 .powerlinks.com
 .poxy.info
 .p.pw
+.pptchecker.club
 .pq-chat.com
 .pr0gramm.com
 .preyproject.com
@@ -803,13 +825,18 @@
 .protect.re
 .proxfree.com
 .proxify.com
+.proxy4free.com
+.proxybrowser.xyz
+.proxy-checker.org
 .proxy.com.es
+.proxydb.net
 .proxy-list.org
 .proxymesh.com
 .proxynova.com
 .proxyof.com
 .proxy.org
 .proxypy.org
+.proxyrack.com
 .proxysite.com
 .proxysite.site
 .proxyweb.com.es
@@ -817,6 +844,7 @@
 .psiphon3.com
 .psiphon.ca
 .psiphontoday.com
+.publicproxyservers.com
 .publicvm.com
 .pumaskill.com
 .purchasetagoldcancer.com
@@ -864,6 +892,7 @@
 .revmetricsevopharma.com
 .revmobads.com
 .rfihub.com
+.rgho.st
 .rhapsody.com
 .richaudience.com
 .rightinthebox.com
@@ -878,6 +907,7 @@
 .roboindustriespotranking.com
 .rod.gs
 .roponwithro.com
+.rosbusiness.eu
 .royaldetail.net
 .rubiconproject.com
 .rusbaytapsplus.com
@@ -885,7 +915,6 @@
 .rxproxy.com
 .ryze.com
 .s2.symcb.com
-.sdpaste.com
 .safesear.ch
 .salonunolevelen.com
 .sanminer.es
@@ -898,9 +927,11 @@
 .scirbsavictory.com
 .scoop.it
 .scottfinancefriendsavings.com
+.sdpaste.com
 .searchcompletion.com
-.securitytactics.com
 .sectordescargas.com
+.securitytactics.com
+.sendmyway.com
 .servebeer.com
 .serveblog.net
 .servecounterstrike.com
@@ -973,14 +1004,17 @@
 .spidermainfacebookrus.com
 .spiritrhythmband.com
 .splatno-17.ml
+.sports-collectors.com
 .spotbros.com
 .spotify.com
 .spot.ify.me
 .spotxchange.com
 .spotx.tv
 .spreaker.com
+.spys.one
 .sr22dwi.com
 .srcultureserveryellow.com
+.ssl-proxy.my-addr.com
 .ssyoutube.com
 .stealthy.co
 .stickyadstv.com
@@ -1027,6 +1061,7 @@
 .t.co
 .teads.tv
 .teenplanet.org
+.telerik.com
 .telex.cc
 .telly.com
 .texasrayfivemw.com
@@ -1059,6 +1094,9 @@
 .tontbetleftun.com
 .toolur.com
 .toorgle.com
+.tor2web.org
+.torguard.net
+.torproject.org
 .torrentfreak.com
 .torrents.me
 .torrents-pro.pro
@@ -1102,6 +1140,7 @@
 .ultrasurf.us
 .umeng.com
 .unblock-proxy.com
+.unblocksites.online
 .unblockyoutube.xyz
 .und.pw
 .uneasinesshelpwith.xyz
@@ -1116,7 +1155,9 @@
 .urlof.site
 .urlsh.me
 .ur.ly
+.userscloud.com
 .usessh001.com
+.us-proxy.org
 .uswebproxy.com
 .utilities.com
 .u.to
@@ -1168,6 +1209,7 @@
 .weheartit.com
 .weibo.com
 .whaa.tk
+.whatismyproxy.com
 .whichlike.com
 .whizurl.com
 .whoer.net
@@ -1234,6 +1276,7 @@
 .zend2.com
 .zenmate.com
 .zipleisurefansstyles.com
+.zippyshare.com
 .zkmobi.com
 .zoneiasiteoh.com
 .zophar.net

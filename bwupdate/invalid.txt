@@ -298,6 +298,7 @@
 ..leuke
 ..livesmscontact
 .lnk
+.localhost
 .long
 .luk
 .m4a
