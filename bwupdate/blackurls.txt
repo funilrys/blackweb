@@ -23,6 +23,8 @@
 .actual.bz
 .ad5.eu
 .ad7.biz
+.adbull.cc
+.adbull.me
 .adcrun.ch
 .addevweb.com
 .addic7ed.com
@@ -381,6 +383,7 @@
 .freewarefiles.com
 .frerusdimannsia.com
 .frontberrygraphicafter.com
+.ftphosting.pw
 .fullvicio.com
 .fulroomsmoothplanning.com
 .funlux.com
@@ -532,7 +535,6 @@
 .joballcallsegypt.com
 .jotformeu.com
 .journaldfwheritageelectric.com
-.jsdelivr.net
 .jsecoin.com
 .juegosfriv.com
 .juegoskizi3.net
@@ -728,6 +730,7 @@
 .noip.us
 .nordvpn.com
 .nosunemontilla.es
+.novaenreta.space
 .nsfor.me
 .nsiskinky.com
 .nthewifi.com
@@ -811,8 +814,8 @@
 .postrelease.com
 .powerlinks.com
 .poxy.info
-.p.pw
 .pptchecker.club
+.p.pw
 .pq-chat.com
 .pr0gramm.com
 .preyproject.com
@@ -844,6 +847,7 @@
 .psiphon3.com
 .psiphon.ca
 .psiphontoday.com
+.psl.pw
 .publicproxyservers.com
 .publicvm.com
 .pumaskill.com
@@ -931,7 +935,9 @@
 .searchcompletion.com
 .sectordescargas.com
 .securitytactics.com
+.sendit.cloud
 .sendmyway.com
+.sendspace.com
 .servebeer.com
 .serveblog.net
 .servecounterstrike.com
@@ -1036,6 +1042,7 @@
 .super-gamezer.com
 .superhideip.com
 .superluchas.com
+.suprafiles.me
 .surl.im
 .sweet-page.com
 .swexcellentsnetlg.com
@@ -1145,7 +1152,10 @@
 .und.pw
 .uneasinesshelpwith.xyz
 .unusualperson.com
+.upload.ee
 .uploadstation.com
+.uploadocean.com
+.uptobox.com
 .uptodown.com
 .urchintelemetry.com
 .urladda.co

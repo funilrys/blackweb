@@ -370,8 +370,8 @@
 .clinique
 .clothing
 .cloud
+.club
 .clubmed
-.club.tw
 .cm
 .cn
 .cng.br

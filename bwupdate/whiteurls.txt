@@ -65781,6 +65781,8 @@
 .itagil.com
 .jamie.cloud.virtualmin.com
 .joewein.net
+.jsdelivr.com
+.jsdelivr.net
 .kiusys.com
 .kiusys.net
 .lair.io
