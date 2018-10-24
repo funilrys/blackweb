@@ -20,6 +20,7 @@
 .acortalo.net
 .acortar.net
 .acortar.xyz
+.activetect.net
 .actual.bz
 .ad5.eu
 .ad7.biz
@@ -340,6 +341,7 @@
 .eztv.ag
 .facebook.com
 .facebook.net
+.facebookmail.com
 .fantasyleague.cc
 .fastusaproxy.com
 .fbcdn.com
