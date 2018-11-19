@@ -50932,6 +50932,7 @@
 .bbva.be
 .bbva.cl
 .bbvaco.d3.sc.omtrdc.net
+.bbvacolombia.sc.omtrdc.net
 .bbvacolombia.tt.omtrdc.net
 .bbva.com
 .bbva.com.co
