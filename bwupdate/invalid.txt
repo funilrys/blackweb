@@ -118,6 +118,7 @@
 .doc
 .docx
 ..Docx.zip
+.domino
 .dreams
 .drv
 .dude
@@ -294,10 +295,12 @@
 ..kutbegin
 ..kutkop
 ..kutwijven
+.lady
 ..lange
 ..langeco
 .lecom
 ..leuke
+.linkedin
 ..livesmscontact
 .lnk
 .localdomain
@@ -467,6 +470,7 @@
 .travelban
 .travelnow
 ..turkse
+.twinbet
 .txt
 .ukk
 .ultimate
