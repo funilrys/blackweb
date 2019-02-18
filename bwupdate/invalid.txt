@@ -27,6 +27,8 @@
 .amateur
 .america
 ..anaal
+.anna
+.answers
 .anthrax
 .antoine
 .ap
@@ -34,6 +36,7 @@
 .appx
 .asf
 .ashx
+.asian
 .asp
 .aspx
 .asx
@@ -46,6 +49,7 @@
 .bakker
 .bankofamerica
 .barnes
+.bat
 .bay
 ..bbeaf
 .bc
@@ -96,6 +100,7 @@
 .colombia
 ..com
 .coma
+.commagnetic
 .css
 .cumswappingcheerleade
 ..dacf
@@ -110,8 +115,10 @@
 ..ddda
 .dean
 .death
+.demo
 .dept
 ..df
+.di
 .dir
 .dl
 .dll
@@ -119,6 +126,7 @@
 .docx
 ..Docx.zip
 .domino
+.down
 .dreams
 .drv
 .dude
@@ -151,12 +159,15 @@
 ..fc
 .fcgi
 ..fd
+.femmes
+.fetish
 .fires
 ..fisting
 .flipsnude
 .flv
 .flying
 .for
+.foto
 ..fr
 .freebiz
 .freecom
@@ -165,9 +176,11 @@
 .free-info
 ..freeporn
 .ftv
+.fuk
 .full
 ..funky
 ..gaypornomovies
+.gays
 ..geile
 ..geiledikkelul
 ..geilelolitasex
@@ -192,6 +205,7 @@
 .gvi
 .hack
 .hardcoreshemalevide
+.hentai
 .high
 .hill
 .hmo
@@ -306,6 +320,7 @@
 .localdomain
 .localhost
 .localhost.localdomain
+.login
 .long
 .luk
 .m4a
@@ -336,9 +351,12 @@
 .main.shtml
 .mallcom
 ..mama
+.mangas
 .margarine
 ..marok
+.martin
 .master
+.mature
 .maturede
 .maturenude
 ..meidenstart
@@ -374,6 +392,7 @@
 .nil
 .nsf
 .nude
+.nue
 .nurse
 .obit
 .ogg
@@ -385,6 +404,7 @@
 .peniche
 ..peterporn
 .phatbootycheerleade
+.phil
 .php
 ..php
 .php.ini
@@ -398,6 +418,7 @@
 ..pools
 .pornade
 .pornfide
+.porno
 ..pornobak
 ..pornomedia
 ..pornoqueen
@@ -434,11 +455,14 @@
 .servecom
 .servenet
 .serveorg
+.server
+.service
 .sexcom
 .sexe
 ..sexecards
 .sex-in-com
 .sexsearchcom
+.sexshop
 .shtm
 .shtml
 .sleep
@@ -446,6 +470,7 @@
 ..spannende
 .spider
 .src
+.static
 .stats
 .stm
 .swf
@@ -499,6 +524,7 @@
 .webs
 .west
 ..wijven
+.wisdom
 .wma
 .wmd
 .wmv
@@ -515,6 +541,7 @@
 .xml
 .xp
 .xspf
+.xx
 .zip
 ..zoek
 ..zuid

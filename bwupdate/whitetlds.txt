@@ -2451,6 +2451,7 @@
 .temasek
 .tennis
 .ternopil.ua
+.test
 .te.ua
 .teva
 .tf
@@ -2613,6 +2614,7 @@
 .waw.pl
 .weather
 .weatherchannel
+.web
 .webcam
 .web.do
 .weber

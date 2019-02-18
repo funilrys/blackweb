@@ -1,4 +1,5 @@
 .1337x.pl
+.1fichier.com
 .1link.io
 .1n.pm
 .1q2w3.fun
@@ -81,6 +82,7 @@
 .argstudio.com
 .arpolicechurchdesignstudio.com
 .artofapparelcoastness.com
+.aserdefa.ru
 .ashleymadison.com
 .asiangetagamercompare.com
 .ask.com
@@ -289,6 +291,7 @@
 .dit-inc.us
 .dlvr.it
 .dnsfor.me
+.d-ns.ga
 .dnsiskinky.com
 .dnsking.com
 .dns.me
@@ -316,6 +319,7 @@
 .dudefinancialjaxea.com
 .dvrcam.info
 .dwin1.com
+.dwindly.io
 .dxmetaarkvegas.com
 .dyfedpowys-helphub.org.uk
 .dynamicdiamondrecpp.com
@@ -386,9 +390,12 @@
 .fbsbx.com
 .fcfan.org
 .feedvoxnjhop.com
+.filecloud.io
 .filehippo.com
 .filenugget.com
 .filerio.in
+.filescdn.com
+.filesupload.org
 .filmdestinationadvisorsincorporated.com
 .filterbypass.me
 .filtersplusfl.com
@@ -494,7 +501,6 @@
 .hina.es
 .hipstamatic.com
 .hiveam.com
-.hive.tubetitties.com
 .hlfan.net
 .hodling.faith
 .holtfarmholidays.com
@@ -506,7 +512,6 @@
 .hopegraphicfschinese.com
 .hopto.me
 .hopto.org
-.host.d-ns.ga
 .hostscrunchphonemanager.com
 .hotfile.com
 .hotfrog.at
@@ -808,6 +813,7 @@
 .n-url.xyz
 .nusualperson.com
 .nycmerchantneedsdiy.com
+.oboom.com
 .odnoklassniki.ru
 .oegllc.net
 .oginto.me
@@ -854,6 +860,7 @@
 .path.com
 .pausetv.com.tr
 .pdbarea.com
+.pdlinks.co
 .pelispedia.tv
 .perksimaginetownre.com
 .petametrics.com
@@ -1168,6 +1175,7 @@
 .thinkmeddeluxebaby.com
 .thisisodoptionzz.com
 .thisuccommercialamerica.com
+.thouth.net
 .threadswatchesnzalien.com
 .ticketnakedwefit.com
 .tickettypelucidpm.com
@@ -1219,6 +1227,7 @@
 .tucows.com
 .tumblr.com
 .tunnelbear.com
+.turbobit.net
 .turnsocial.com
 .turnsocial.now.sh
 .tu.tv
@@ -1245,6 +1254,7 @@
 .unusualperson.com
 .upload.ee
 .uploadocean.com
+.uploadrar.com
 .uploadstation.com
 .uptobox.com
 .uptodown.com

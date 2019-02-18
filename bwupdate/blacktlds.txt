@@ -2,6 +2,7 @@
 .beer
 .comsex
 .club
+.gay
 .onion
 .poker
 .porn
