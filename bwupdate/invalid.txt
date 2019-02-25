@@ -326,6 +326,7 @@
 .m4a
 .m4r
 .m4v
+.maes
 ..mail
 .main.asp
 .Main.asp

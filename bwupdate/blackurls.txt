@@ -197,6 +197,7 @@
 .clashroyale.com
 .classifiedstradingminibridal.com
 .classmates.com
+.clicksfly.com
 .clk.im
 .cloudcoins.co
 .cloudmobi.net
@@ -268,6 +269,7 @@
 .dallasegcomsoftware.com
 .damnserver.com
 .danwebhostingblackwell.com
+.darkville.tv
 .datafilehost.com
 .datagravity.com
 .dclinks.info
@@ -280,6 +282,7 @@
 .delta-homes.com
 .depositfiles.com
 .depositfiles.org
+.descargatelocorp.com
 .developmentfluidramoil.com
 .deviantart.com
 .dft.ba
@@ -378,6 +381,7 @@
 .expressvpn.com
 .eyeem.com
 .eztv.ag
+.fabsdeals.com
 .facebook.com
 .facebookmail.com
 .facebook.net
@@ -479,6 +483,7 @@
 .growcleancopyis.com
 .gus.host
 .habbo.com
+.hackstore.net
 .haloapps.com
 .handjjsellinggold.com
 .haproxy.org
@@ -689,6 +694,9 @@
 .megaproxy.com
 .megaproxy.com.ar
 .megapush.online
+.megaupload2.com
+.megaup.net
+.mellowads.com
 .memberthatshopportland.com
 .meneame.net
 .merca.net.co
@@ -707,6 +715,7 @@
 .minero.pw
 .minescripts.info
 .miniclip.com
+.mirrorace.com
 .mirrored.to
 .mitmproxy.org
 .mixi.jp
@@ -739,6 +748,7 @@
 .multichipreviewwill.com
 .multimediadgyesmat.com
 .multiply.com
+.multiup.org
 .museaddselling.com
 .musicaideal.net
 .musicaldeskhorsecaddy.com
@@ -1109,6 +1119,7 @@
 .spreaker.com
 .spys.one
 .sr22dwi.com
+.srcsmrtgs.com
 .srcultureserveryellow.com
 .ssl-proxy.my-addr.com
 .ssyoutube.com
@@ -1243,6 +1254,7 @@
 .ugamezone.com
 .uicksytes.com
 .ukl.me.uk
+.ul.to
 .ultrasurfing.com
 .ultrasurf.us
 .umeng.com
