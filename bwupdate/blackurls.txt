@@ -1324,6 +1324,7 @@
 .vimeo.com
 .vindicosuite.com
 .vine.co
+.viralcollect.info
 .virtequip.com
 .visitpyrmontultimo.com.au
 .vk.com
