@@ -24097,7 +24097,6 @@
 .buildtour.microsoft.com
 .bujidaocdn.eastus.cloudapp.azure.com
 .bujinet.eastus2.cloudapp.azure.com
-.bulkingsvc-1ittelemetry.westus2.cloudapp.azure.com
 .bulk.match.account.microsoft.com
 .bulkmatch.account.microsoft.com
 .bu-magazine.westeurope.cloudapp.azure.com
@@ -30170,11 +30169,8 @@
 .ingest-node-01.westeurope.cloudapp.azure.com
 .ingest.token.cp.microsoft.com
 .ingress.eastus.cloudapp.azure.com
-.ing-svc-int-telemetry.westus.cloudapp.azure.com
 .ing-svc-int.westus.cloudapp.azure.com
 .ing-svc-prod.eastus.cloudapp.azure.com
-.ing-svc-prod-telemetry.eastus.cloudapp.azure.com
-.ing-svc-prod-telemetry.westus.cloudapp.azure.com
 .ing-svc-prod.westus.cloudapp.azure.com
 .in.int.classroom.microsoft.com
 .ink.edog.officeapps.live.com
@@ -34316,7 +34312,6 @@
 .onegw.microsoft.com
 .onegwppe.partners.extranet.microsoft.com
 .oneittelbulkingestion.westus2.cloudapp.azure.com
-.oneittelemetrybulking.westus2.cloudapp.azure.com
 .onenote.com
 .onenote.officeapps.live.com
 .onerf.microsoft.com
@@ -40195,8 +40190,6 @@
 .telecomreporting.partners.extranet.microsoft.com
 .telematicslw.westeurope.cloudapp.azure.com
 .telematics-score.westeurope.cloudapp.azure.com
-.telemetryhostdev1.westus2.cloudapp.azure.com
-.telemetryhost.westus2.cloudapp.azure.com
 .telepathwords.research.microsoft.com
 .telestaging.ukwest.cloudapp.azure.com
 .telioshml.eastus.cloudapp.azure.com
@@ -42749,43 +42742,6 @@
 .zyang.southeastasia.cloudapp.azure.com
 .zyllemalgo.southeastasia.cloudapp.azure.com
 .zz-sia.eastus.cloudapp.azure.com
-# MSTELEMETRY
-.aedmtelemetryreceiver.skype.com
-.alpha.telemetry.microsoft.com
-.big.telemetry.microsoft.com
-.df.telemetry.microsoft.com
-.oca.telemetry.microsoft.com
-.oca.telemetry.microsoft.com.nsatc.net
-.reports.wes.df.telemetry.microsoft.com
-.scsquery-ss-asia.trafficmanager.net
-.scsquery-ss-eu.trafficmanager.net
-.scsquery-ss-us.trafficmanager.net
-.search.production.apac.trafficmanager.net
-.search.production.emea.trafficmanager.net
-.search.production.us.trafficmanager.net
-.services.wes.df.telemetry.microsoft.com
-.skypemaprdsitus.trafficmanager.net
-.sqm.df.telemetry.microsoft.com
-.sqm.telemetry.microsoft.com
-.sqm.telemetry.microsoft.com.nsatc.net
-.telecommand.telemetry.microsoft.com
-.telecommand.telemetry.microsoft.com.nsatc.net
-.telemetry2.ingestion.microsoft.com
-.telemetry.appex.bing.net
-.telemetry.ingestion.microsoft.com
-.telemetry.microsoft.com
-.telemetry.microsoft.com.nsatc.net
-.telemetry.remoteapp.windowsazure.com
-.telemetryservice.firstpartyapps.oaspapps.com
-.telemetry.urs.microsoft.com
-.trafficmanager.net
-.watson.df.telemetry.microsoft.com
-.watson.ppe.telemetry.microsoft.com
-.watson.telemetry.microsoft.com
-.watson.telemetry.microsoft.com.nsatc.net
-.wes.df.telemetry.microsoft.com
-# MOZILLATELEMETRY
-.incoming.telemetry.mozilla.org
 # YAHOO
 .ad.yieldmanager.com
 .amp.yahoo.com
@@ -55686,8 +55642,6 @@
 .affiliates.mozilla.org
 .airmo.mozilla.org
 .air.mozilla.org
-.alerts.telemetry.mozilla.org
-.analysis.telemetry.mozilla.org
 .anb1.fuzzing.mozilla.org
 .anf1.fuzzing.mozilla.org
 .api-dev.bugzilla.mozilla.org
@@ -55763,7 +55717,6 @@
 .discovery.addons.mozilla.org
 .dnt-dashboard.mozilla.org
 .dnt.mozilla.org
-.docs-origin.telemetry.mozilla.org
 .doctor.mozilla.org
 .doctor-test.mozilla.org
 .donate.mozilla.org
@@ -55795,7 +55748,6 @@
 .ftp-test.mozilla.org
 .fundraising.mozilla.org
 .fuzzmanager.fuzzing.mozilla.org
-.fxos.telemetry.mozilla.org
 .gameon.mozilla.org
 .games.mozilla.org
 .ganglia.mozilla.org
@@ -55818,7 +55770,6 @@
 .hang-reports.mozilla.org
 .hg.mozilla.org
 .hgpvt.mozilla.org
-.hotfix.telemetry.mozilla.org
 .http-observatory.security.mozilla.org
 .hudson.mozilla.org
 .icecast.mozilla.org
@@ -55850,7 +55801,6 @@
 .litmus.mozilla.org
 .localize.mozilla.org
 .login.mozilla.org
-.loop.telemetry.mozilla.org
 .mail.mozilla.org
 .mana.mozilla.org
 .marketplace.mozilla.org
@@ -55969,8 +55919,6 @@
 .tbpl.mozilla.org
 .teach.mozilla.org
 .telefonica.marketplace.mozilla.org
-.telemetry-dash.mozilla.org
-.telemetry.mozilla.org
 .test-letsencrypt-client.security.mozilla.org
 .thimble.mozilla.org
 .tiles.services.mozilla.com
