@@ -635,6 +635,7 @@
 .telemetry.microsoft.com
 .telemetry.microsoft.com.nsatc.net
 .telemetry.remoteapp.windowsazure.com
+.watson.telemetry.microsoft.com
 .telemetryservice.firstpartyapps.oaspapps.com
 .telemetry.urs.microsoft.com
 .test.activity.windows.com
