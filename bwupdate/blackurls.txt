@@ -166,6 +166,7 @@
 .capsulink.com
 .care2.com
 .caringbridge.org
+.carpartsviet31.site
 .casalemedia.com
 .caverosethingsdaily.com
 .cctvhotdeals.com
@@ -656,6 +657,7 @@
 .linkbucks.com
 .link.im
 .linkpc.net
+.linksearch.cf
 .linkshrink.net
 .links.st
 .linkto.net

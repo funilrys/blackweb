@@ -46980,6 +46980,7 @@
 .funcionpublica.gov.co
 .gdocumental.copnia.gov.co
 .geoportal.igac.gov.co
+.gestion.sigep.gov.co
 .govco.co
 .herramientas.datos.gov.co
 .icbf.gov.co
@@ -50474,6 +50475,7 @@
 .artemisa.unbosque.edu.co
 .atec.edu.co
 .aulavirtual.cecar.edu.co
+.aulasuniminuto.edu.co
 .autodiscover.sena.edu.co
 .autonoma.edu.co
 .bdigital.sena.edu.co
@@ -65677,6 +65679,7 @@
 .agenti.com.co
 .agorbatchev.typepad.com
 .airpr.com
+.akamaitechnologies.com
 .alexgorbatchev.com
 .alterserv.com
 .amd.com
@@ -65798,6 +65801,7 @@
 .engage.intel.com
 .enlaceoperativo.com
 .enter.co
+.esigna.me
 .etb.net.co
 .evaluaciongestiondelriesgo.sei-consultores.com.co
 .exceltotal.com
@@ -65868,6 +65872,7 @@
 .malware-domains.com
 .malwaredomains.lehigh.edu
 .maravento.com
+.mdstrm.com
 .medicina.uc.cl
 .mesadeconversaciones.com.co
 .meta.superuser.com
@@ -65967,6 +65972,7 @@
 .tegrazone.com
 .telefonica.com
 .telegram.org
+.tinypass.com
 .tiquetesbaratos.com
 .tools.cisco.com
 .tools.usps.com
@@ -65985,6 +65991,7 @@
 .ven.nvidia.com
 .viajala.com.co
 .vigilanciasuperiorprocuraduria.org
+.virtualearth.net
 .virtuallythere.com
 .virtualmin.com
 .virustotal.com
