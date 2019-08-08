@@ -8,6 +8,8 @@
 .10.client-channel.google.com
 .10.docs.google.com
 .10.drive.google.com
+.111389112.googleapis.com
+.112040815.googleapis.com
 .11.client-channel.google.com
 .11.docs.google.com
 .11.drive.google.com
@@ -44,6 +46,7 @@
 .23.client-channel.google.com
 .24.client-channel.google.com
 .25.client-channel.google.com
+.26644787.googleapis.com
 .26.client-channel.google.com
 .27.client-channel.google.com
 .28.client-channel.google.com
@@ -57,6 +60,7 @@
 .2.ig.gmodules.com
 .2mdn.net
 .2-ps.googleusercontent.com
+.31061001.googleapis.com
 .360suite.google.com
 .3.bp.blogspot.com
 .3.client-channel.google.com
@@ -82,6 +86,8 @@
 .6.docs.google.com
 .6.drive.google.com
 .6.ig.gmodules.com
+.71905848.googleapis.com
+.73064727.googleapis.com
 .7.client-channel.google.com
 .7.docs.google.com
 .7.drive.google.com
@@ -136,6 +142,7 @@
 .android.l.google.com
 .androidmarket.googleusercontent.com
 .android-market.l.google.com
+.androidpay-users-pa.googleapis.com
 .android.tk
 .answers.google.com
 .ap1.googleusercontent.com
@@ -156,6 +163,7 @@
 .appengine.google.com
 .apps.google.com
 .appspot.com
+.appspot.com.storage.googleapis.com
 .appspot.l.google.com
 .appspot-preview.l.google.com
 .art-project-media.appspot.com
@@ -164,6 +172,7 @@
 .atmosphere.withgoogle.com
 .au.2mdn.net
 .auth.keyhole.com
+.autopush-gwift-iplareceive.corp.googleapis.com
 .au.youtube.com
 .bandaid-redirector.l.google.com
 .base0.googlehosted.com
@@ -187,6 +196,9 @@
 .beyond-pa.clients6.google.com
 .b.googlemail.l.google.com
 .bigcache.googleapis.com
+.bigtable.googleapis.com
+.billpaynotification.googleapis.com
+.billpaynotification-nocert.googleapis.com
 .blob-s-docs.googlegroups.com
 .blogblog.com
 .blog.chromium.org
@@ -251,6 +263,7 @@
 .cardboard.withgoogle.com
 .caroufredseldawaa.googlecode.com
 .ca.youtube.com
+.c.bigcache.googleapis.com
 .cbk0.google.com
 .cbk1.google.com
 .cbk2.google.com
@@ -269,6 +282,7 @@
 .chart.googleapis.com
 .chatenabled.mail.google.com
 .checkout.google.com
+.chief-cdn.storage.googleapis.com
 .chinesenewyear.withgoogle.com
 .chrome.blogspot.com
 .chromebook.com
@@ -306,8 +320,11 @@
 .clients.l.google.com
 .clients.safebrowsing.google.com
 .closure-library.googlecode.com
+.clouderrorreporting.googleapis.com
 .cloud.google.com
+.cloudiotprovisioningmqtt.googleapis.com
 .cloudssh.developers.google.com
+.cloudtrace.googleapis.com
 .cms.youtube.com
 .cn.2mdn.net
 .cobrasearch.com
@@ -325,8 +342,13 @@
 .console.developers.google.com
 .console.firebase.google.com
 .contacts.google.com
+.container.googleapis.com
 .content.googleapis.com
+.content-storage-download.googleapis.com
+.content-storage.googleapis.com
+.content-storage-upload.googleapis.com
 .contributor.google.com
+.corp.googleapis.com
 .corp.youtube.com
 .creativelab5.com
 .creatoracademy.youtube.com
@@ -338,8 +360,10 @@
 .cyc.youtube.com
 .c.youtube.com
 .dai.googlevideo.com
+.dataflow.googleapis.com
 .datasaver.googleapis.com
 .datasense.withgoogle.com
+.datastore.googleapis.com
 .data-vocabulary.org
 .de.2mdn.net
 .design.google.com
@@ -351,6 +375,8 @@
 .developer.chrome.com
 .developers.googleblog.com
 .developers.google.com
+.dev-gwift-iplareceive.corp.googleapis.com
+.devicereport.youtube.com
 .de.youtube.com
 .directory.google.com
 .dir.google.com
@@ -459,6 +485,11 @@
 .ds.ipv6test.l.google.com
 .earth-api-samples.googlecode.com
 .earth.google.com
+.edgecert.googleapis.com
+.edgetp1.googleapis.com
+.edgetp2.googleapis.com
+.edgetp3.googleapis.com
+.edgetp4.googleapis.com
 .edudirectory.withgoogle.com
 .emea.2mdn.net
 .emeadev.blogspot.com
@@ -476,6 +507,7 @@
 .es.2mdn.net
 .events.google.com
 .evolutionofweb.appspot.com
+.fcm.googleapis.com
 .feedback.googleusercontent.com
 .feedburner.com
 .feedburner.google.com
@@ -489,6 +521,7 @@
 .finance.google.com
 .firebase.google.com
 .firebasestorage.googleapis.com
+.firestore.googleapis.com
 .fonts.googleapis.com
 .fonts.gstatic.com
 .foobar.withgoogle.com
@@ -898,6 +931,7 @@
 .gvt1.co
 .gvt1.com
 .gvt1.net
+.gwift-iplareceive.corp.googleapis.com
 .gwtproject.org
 .gxc.google.com
 .gxc.google.com.hk
@@ -1018,6 +1052,7 @@
 .linkhelp.clients.google.com
 .lists.webmproject.org
 .local.google.com
+.logging.googleapis.com
 .m1.2mdn.net
 .m1.ae.2mdn.net
 .m1.au.2mdn.net
@@ -1258,6 +1293,12 @@
 .mobile.l.google.com
 .mobilemaps.clients.google.com
 .moderator.appspot.com
+.monitoring.googleapis.com
+.mqtt.googleapis.com
+.mqtt-mtls.googleapis.com
+.mqtt-preprod.sandbox.googleapis.com
+.mqtt-staging.sandbox.googleapis.com
+.mqtt-test.sandbox.googleapis.com
 .mt0.googleapis.com
 .mt0.google.cn
 .mt0.google.com
@@ -1282,6 +1323,7 @@
 .mt.google.cn
 .mt.google.com
 .mt.l.google.com
+.mtls.googleapis.com
 .mts0.googleapis.com
 .mts0.google.com
 .mts1.googleapis.com
@@ -1436,16 +1478,20 @@
 .p4-hxf7wvj6squ6m-zjytfu7ontxsc64w-if-v6exp3-v4.metric.gstatic.com
 .pack.google.cn
 .pack.google.com
+.paisa-pa.googleapis.com
 .panoramio.com
 .partnerpage.google.com
 .partner.youtube.com
 .passwords.google.com
 .patents.google.com
+.payments.googleapis.com
 .payments.google.com
+.payments.sandbox.googleapis.com
 .payments.youtube.com
 .peering.google.com
 .people-pa.clients6.google.com
 .p.gmodules.com
+.p.googleapis.com
 .photos1.blogger.com
 .photos.google.com
 .photos-ugc.l.googleusercontent.com
@@ -1458,10 +1504,13 @@
 .pixel.google.com
 .pki.google.com
 .pl.2mdn.net
+.play-fe.googleapis.com
 .play.golang.org
 .play.googleapis.com
 .play.google.com
 .playground.html5rocks.com
+.play-ti.googleapis.com
+.play-tokenized.googleapis.com
 .plus.googleapis.com
 .plus.google.com
 .plus.l.google.com
@@ -1479,6 +1528,8 @@
 .project-slingshot-gp.appspot.com
 .proxy-dev.googlezip.net
 .proxy.googlezip.net
+.p.sandbox.googleapis.com
+.pubsub.googleapis.com
 .r10---maa03s08.googlevideo.com
 .r10---maa03s09.googlevideo.com
 .r10---maa03s10.googlevideo.com
@@ -16945,6 +16996,7 @@
 .registry.google
 .research.google.com
 .rmcdn.2mdn.net
+.runtimeconfig.googleapis.com
 .ru.youtube.com
 .s0.2mdn.net
 .s1.2mdn.net
@@ -16956,6 +17008,7 @@
 .safebrowsing.clients.google.com
 .safebrowsing.googleapis.com
 .safebrowsing.google.com
+.sandbox.googleapis.com
 .sandbox.google.com
 .sandbox.l.google.com
 .sandbox.youtube.com
@@ -16975,6 +17028,7 @@
 .se.2mdn.net
 .securetoken.googleapis.com
 .security.google.com
+.servicecontrol.googleapis.com
 .services.google.com
 .service.urchin.com
 .sg.2mdn.net
@@ -16991,6 +17045,7 @@
 .sO.2mdn.net
 .source.android.com
 .source.developers.google.com
+.spanner.googleapis.com
 .spellup.withgoogle.com
 .spreadsheet.google.com
 .spreadsheets0.google.com
@@ -17010,16 +17065,22 @@
 .ssl-google-analytics.l.google.com
 .ssl.gstatic.com
 .sslvideo-upload.l.google.com
+.stackdriver.googleapis.com
 .stage.gdata.youtube.com
+.staging-gwift-iplareceive.corp.googleapis.com
 .static.2mdn.net
 .static.googleadsserving.cn
 .static.googleusercontent.com
 .static.panoramio.com
+.static.panoramio.com.storage.googleapis.com
 .status.blogger.com
 .storage.cloud.google.com
+.storage-download.googleapis.com
 .storage.googleapis.com
 .storage.l.googleusercontent.com
+.storage.select.googleapis.com
 .storage-ugc.l.googleusercontent.com
+.storage-upload.googleapis.com
 .storegadgetwizard.appspot.com
 .store.google.com
 .streamingreport.youtube.com
@@ -17241,7 +17302,9 @@
 .tc.v9.cache8.googlevideo.com
 .t.doc-0-0-sj.sj.googleusercontent.com
 .teachparentstech.org
+.test-hilbertdevicesync-pa.sandbox.googleapis.com
 .testmysite.thinkwithgoogle.com
+.testonly.googleapis.com
 .textcube.com
 .thegobridgeoglepuzzle.com
 .thegooglepuzzle.com
@@ -17416,6 +17479,7 @@
 .trendstw.withgoogle.com
 .twx.2mdn.net
 .tw.youtube.com
+.uberproxy-san.corp.googleapis.com
 .uberproxy-san.youtube.com
 .uk.2mdn.net
 .uk.youtube.com
@@ -32980,6 +33044,7 @@
 .msftguestus.corp.microsoft.com
 .msftguestus.partners.extranet.microsoft.com
 .msftncsi.com
+.msftconnecttest.com
 .msftofficetalk.partners.extranet.microsoft.com
 .msftofficetalkservices.partners.extranet.microsoft.com
 .msft.sts.microsoft.com

@@ -1,0 +1,24 @@
+# google
+.adservice.google.com.co
+.ggpht.com
+.goo.gl
+.googlevideo.com
+.play.google.com
+.youtu.be
+.youtube.com
+.youtube.com.br
+.youtube.co.nz
+.youtube.de
+.youtube.es
+.youtube.googleapis.com
+.youtubei.googleapis.com
+.youtube.it
+.youtube.nl
+.youtube-nocookie.com
+.youtube.ru
+.ytimg.com
+# microsoft update
+.telemetry.microsoft.com
+.tlu.dl.delivery.mp.microsoft.com
+.update.microsoft.com
+.windowsupdate.com

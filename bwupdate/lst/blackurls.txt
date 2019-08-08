@@ -14,6 +14,7 @@
 .4shared.com
 .500px.com
 .50tl.net
+.7vip.es
 .aartemis.com
 .abcangelsgeniusgolden.com
 .able-modem.org
@@ -42,6 +43,7 @@
 .adnxs.com
 .ads.eltiempo.co
 .adshort.co
+.adsrt.me
 .adsrvr.org
 .adturtle.biz
 .adyou.m
@@ -89,6 +91,7 @@
 .assistantqrparadisemls.com
 .associationhomesadamcampus.com
 .ating-organic.net
+.authorse.com
 .autohideip.com
 .avidly.com
 .awesomehp.com
@@ -125,6 +128,7 @@
 .bitly.com
 .bitstamp.net
 .bitvise.com
+.bizographics.com
 .bkrtx.com
 .bl-1.com
 .blackplanet.com
@@ -177,6 +181,7 @@
 .celtichr.com
 .ceorechibroad.com
 .certified-toolbar.com
+.cfts1tifqr.com
 .chainblock.science
 .chaletelbosque.es
 .champvillamojogifts.com
@@ -242,6 +247,7 @@
 .coutureexconnectionsforlife.com
 .coversbridalthinkdroid.com
 .cpgnrotation.co
+.cpmlink.net
 .cpu2cash.link
 .crazyegg.com
 .creativecdn.com
@@ -256,6 +262,7 @@
 .cryptobara.com
 .crypto-loot.com
 .cryptoloot.pro
+.cu5.io
 .cuon.io
 .customermatds.com
 .cutout.es
@@ -354,6 +361,7 @@
 .elitetorrent.biz
 .ello.co
 .emailalohacanvasschools.com
+.encarguelo.com
 .engageya.com
 .epicgames.com
 .epictorrents.com
@@ -395,8 +403,10 @@
 .fb.me
 .fbsbx.com
 .fcfan.org
+.fc.lcZN29Aj
 .feedvoxnjhop.com
 .filecloud.io
+.filecrypt.cc
 .filehippo.com
 .filenugget.com
 .filerio.in
@@ -410,6 +420,7 @@
 .flashtalking.com
 .fleshandbloodoutdoors.com
 .flfan.org
+.flipax.net
 .flixster.com
 .flowcentreartistjourney.com
 .flowsilverwillnova.com
@@ -418,6 +429,7 @@
 .footprintdns.com
 .forevercruiseevnm.com
 .formuladivasharkforkids.com
+.forumloadfast.pro
 .forumprizecookiesphere.com
 .fosshub.com
 .fotki.com
@@ -461,6 +473,7 @@
 .geocities.com
 .geo-svc.com
 .geti2p.net
+.gfbunit.com
 .gg.gg
 .giv.to
 .glambingjumpsteps.com
@@ -488,13 +501,16 @@
 .gus.host
 .habbo.com
 .hackstore.net
+.hajoopteg.com
 .haloapps.com
 .handjjsellinggold.com
 .haproxy.org
+.hatsurewhim.info
 .headsinglesfilmsvision.com
 .health-carereform.com
 .helperbar.com
 .hemnes.win
+.heroesofrpg.com
 .hhtxnet.com
 .hi5.com
 .hideipprivacy.com
@@ -509,6 +525,7 @@
 .hidester.com
 .highwickedsailwc.com
 .hina.es
+.hiphopmack.com
 .hipstamatic.com
 .hislink.net
 .hiveam.com
@@ -548,6 +565,7 @@
 .hsselite.com
 .hubapi.com
 .hugemadequietsf.com
+.humaribit.win
 .hyperurl.co
 .hyves.nl
 .i2w.io
@@ -595,6 +613,7 @@
 .itw.me
 .ivpaste.com
 .ixmemberhairproducts.com
+.jacktekpro.com
 .jans.li
 .j.gs
 .jladmingurusvietnam.com
@@ -612,6 +631,7 @@
 .junkiesexpressgotlightning.com
 .justproxy.co.uk
 .jwplayer.com
+.jyra.online
 .k2s.cc
 .kaffnet.com
 .kambicdn.com
@@ -647,6 +667,7 @@
 .legalkcamamode.com
 .legalkiteafricanevery.com
 .lessnmore.net
+.letio.com
 .leue.biz
 .lewd.ninja
 .liadm.com
@@ -663,6 +684,7 @@
 .linkto.net
 .listat.biz
 .liteco-lighting.com
+.liveappsearch.com
 .live-k33.com
 .lix.in
 .lknsuite.com
@@ -682,6 +704,7 @@
 .magicinteldigestground.com
 .mailstat.us
 .mailtemp.org
+.maja-jedrzejewska.eu
 .majorgeeks.com
 .malavida.com
 .manpowergianttwisted.com
@@ -743,6 +766,7 @@
 .mobileninekeeperauthority.com
 .mobjcopyvo.com
 .mobm1.info
+.mobpowertech.com
 .mobreaderchurchgreen.com
 .mobsmovement.com
 .mocospace.com
@@ -754,6 +778,7 @@
 .morningdigit.com
 .moviesreportevemorning.com
 .mp3.es
+.mradx.com
 .msgamestudios.com
 .multichipreviewwill.com
 .multimediadgyesmat.com
@@ -834,6 +859,7 @@
 .n-url.xyz
 .nusualperson.com
 .nycmerchantneedsdiy.com
+.oath.com
 .oboom.com
 .odnoklassniki.ru
 .oegllc.net
@@ -846,6 +872,7 @@
 .o-ip.co.uk
 .o-ip.info
 .ojaishrimps.com
+.oko.sh
 .olffan.us
 .olgiantfouruser.com
 .ollegefan.org
@@ -872,12 +899,14 @@
 .ouchpotatofries.org
 .oumedfu.info
 .ouo.io
+.ouo.press
 .outbrain.com
 .outbrainimg.com
 .ow.ly
 .padovastudiolegale.it
 .papoto.com
 .parkyooyouunderground.com
+.pastepvp.org
 .pastewma.com
 .path.com
 .pausetv.com.tr
@@ -916,11 +945,11 @@
 .portalprogramas.com
 .portlandapplehsdistribution.com
 .portnhchurchfit.com
+.postimg.cc
 .postrelease.com
 .powerlinks.com
 .poxy.info
 .ppoi.org
-.pptchecker.club
 .p.pw
 .pq-chat.com
 .pr0gramm.com
@@ -965,6 +994,7 @@
 .q.gs
 .qlink.me
 .qone8.com
+.qpiyz.com
 .qq.com
 .quantserve.com
 .queenknowledgeblocksqatar.com
@@ -995,6 +1025,7 @@
 .redbull.tv
 .reddit.com
 .re-direcciona.me
+.redirect2719.ws
 .redirectme.net
 .reducelnk.com
 .reliefleadsgeneration.com
@@ -1070,12 +1101,14 @@
 .servesarcasm.com
 .serving-sys.com
 .sex.hu
+.share-online.biz
 .sharethis.com
 .shauninman.com
 .shinekarmaapartmentslot.com
 .shink.in
 .shink.me
 .shirtsdiallonglib.com
+.shon.xyz
 .shoppinggalicevt.com
 .shorten.me
 .shorter-in.cf
@@ -1084,6 +1117,7 @@
 .short.pe
 .shortswitch.com
 .shoutkey.com
+.shrtfly.com
 .shrty.link
 .shst.us
 .shtyle.fm
@@ -1180,6 +1214,7 @@
 .takelesitewords.com
 .tallerbicis.es
 .tandugolastsp.com
+.tapad.com
 .tapaybicyclepond.com
 .taringa.net
 .tastyshoesdtgf.com
@@ -1249,6 +1284,7 @@
 .tr.im
 .tripadvisor.es
 .tropicalmovementarticlekc.com
+.trustisson.com
 .ttdogmdwisconsin.com
 .tubemogul.com
 .tubetitties.com
@@ -1259,6 +1295,7 @@
 .turbobit.net
 .turnsocial.com
 .turnsocial.now.sh
+.tusfiles.com
 .tu.tv
 .twitter.co
 .twitter.com
@@ -1271,11 +1308,14 @@
 .ufcfan.org
 .ugamezone.com
 .uicksytes.com
+.uii.io
 .ukl.me.uk
 .ul.to
 .ultrasurfing.com
 .ultrasurf.us
 .umeng.com
+.unblocked.icu
+.unblocked.love
 .unblock-proxy.com
 .unblocksites.online
 .unblockyoutube.xyz
@@ -1297,6 +1337,7 @@
 .urlof.site
 .urlsh.me
 .ur.ly
+.usenet.nl
 .userscloud.com
 .usessh001.com
 .us-proxy.org
@@ -1379,6 +1420,7 @@
 .wurlie.net
 .www-searches.com
 .www-search.net
+.wysasys.com
 .x18.eu
 .xanga.com
 .xevd.co
@@ -1415,12 +1457,15 @@
 .yumenetworks.com
 .yvnc.com
 .yy.com
+.z2i.com
 .zalmos.com
 .zapto.org
 .zapyo.com
 .zbbx.me
 .zbqhfbetlmni.net
+.zealotfun.com
 .zebrametalmadnesscast.com
+.zemanta.com
 .zend2.com
 .zenmate.com
 .zipleisurefansstyles.com
@@ -1430,4 +1475,5 @@
 .zoneiasiteoh.com
 .zophar.net
 .zorpia.com
+.zukxd6fkxqn.com
 .zzbuckettownrock.com
