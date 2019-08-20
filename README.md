@@ -9,7 +9,7 @@
 
 |ACL|Black Domains|txt size|tar.gz size|
 |---|-------------|--------|-----------|
-|blackweb.txt|2.441.780|57,4 MB|12,2 MB|
+|blackweb.txt|3.843.461|87.2 MB|19.6 MB|
 
 ### DEPENDENCIAS / DEPENDENCIES
 ---
@@ -230,8 +230,6 @@ http_access deny blackweb
 [CloudSync](https://github.com/maravento/blackweb/raw/master/bwupdate/lst/cloudsync.txt)
 
 [RemoteURLs](https://github.com/maravento/blackweb/raw/master/bwupdate/lst/remoteurls.txt)
-
-[Errors](https://raw.githubusercontent.com/maravento/blackweb/master/bwupdate/lst/error.txt)
 
 [Invalid Domains](https://raw.githubusercontent.com/maravento/blackweb/master/bwupdate/lst/invalid.txt)
 

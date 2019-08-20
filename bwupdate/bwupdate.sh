@@ -17,11 +17,12 @@ cm2=("Descargando Blackweb Update..." "Downloading Blackweb Update...")
 cm7=("Descargando Listas Negras..." "Downloading Blacklists...")
 cm8=("Descargando Listas Blancas..." "Downloading Whitelist...")
 cm9=("Descargando TLDs..." "Downloading TLDs...")
-cm10=("Capturando Dominios..." "Capturing Domains...")
-cm11=("Depurando Blackweb..." "Debugging Blackweb...")
-cm12=("Recargando Squid..." "Squid Reload...")
-cm13=("Terminado" "Done")
-cm14=("Verifique en su Escritorio: SquidError.txt" "Check on your Desktop: SquidError.txt")
+cm10=("Uniendo Listas..." "Joining Lists...")
+cm11=("Capturando Dominios..." "Capturing Domains...")
+cm12=("Depurando Blackweb..." "Debugging Blackweb...")
+cm13=("Recargando Squid..." "Squid Reload...")
+cm14=("Terminado" "Done")
+cm15=("Verifique en su Escritorio: SquidError.txt" "Check on your Desktop: SquidError.txt")
 
 test "${LANG:0:2}" == "es"
 es=$?
@@ -198,8 +199,6 @@ function univ() {
 }
 	univ 'https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json' && sleep 1
 
-sed '/^$/d; /#/d' lst/whiteurls.txt | sort -u > urls.txt
-
 echo "OK"
 
 # DOWNLOADING WHITETLDS
@@ -211,7 +210,6 @@ function tlds() {
 }
 	tlds 'https://raw.githubusercontent.com/maravento/tlds/master/tlds.txt' && sleep 1
 
-# JOIN LIST
 function tlds() {
 	$wgetd "$1" -O - > lst/badtlds.txt
 }
@@ -219,30 +217,39 @@ function tlds() {
 
 echo "OK"
 
+# JOIN LIST
+echo
+echo "${cm10[${es}]}"
+sed '/^$/d; /#/d' lst/{tlds,badtlds,invalid,whiteurls}.txt | sort -u > urls.txt
 # unblock
 #sed '/^$/d; /#/d' lst/{cloudsync,remoteurls}.txt | sort -u >> urls.txt
 # block
 #sed '/^$/d; /#/d' lst/{cloudsync,remoteurls}.txt | sort -u >> bwtmp/bw.txt
 
+echo "OK"
+
 # CAPTURING DOMAINS
 echo
-echo "${cm10[${es}]}"
+echo "${cm11[${es}]}"
 find bwtmp -type f -execdir grep -oiE "$regexd" {} \; > bwtmp.txt
 sed -r '/[^a-zA-Z0-9.-]/d' bwtmp.txt | sed -r 's:(^\.*?(www|ftp|xxx|wvw)[^.]*?\.|^\.\.?)::gi' | awk '{print "."$1}' | sed -r '/^\.\W+/d' | sort -u > bl.txt
+sed '/^$/d; /#/d' lst/blackurls.txt >> bl.txt
 echo "OK"
 
 # DEBUGGING BLACKWEB
 echo
-echo "${cm11[${es}]}"
+echo "${cm12[${es}]}"
 # parse domains
-grep -Fvxf <(cat lst/{tlds,badtlds,inactive}.txt) <(python tools/parse_domain.py | awk '{print "."$1}') | sort -u > out.txt
+grep -Fvxf <(cat urls.txt lst/inactive.txt) <(python tools/parse_domain.py | awk '{print "."$1}') | sort -u > blclean.txt
 # add black domains and fixing common errors
-sed '/^$/d; /#/d' lst/{blackurls,blacktlds}.txt >> out.txt && sort -o out.txt -u out.txt >/dev/null 2>&1
-grep -vi -f lst/error.txt out.txt | sort -u > blackweb.txt
+cat lst/blacktlds.txt >> blclean.txt
+grep -vi -f <(sed 's:^\(.*\)$:.\\\1\$:' lst/blacktlds.txt) blclean.txt | sort -u > out.txt
+grep -vi -f <(sed 's:^\(.*\)$:\\\1\$:' lst/badtlds.txt) out.txt | sort -u > blackweb.txt
+sort -o blackweb.txt -u blackweb.txt >/dev/null 2>&1
 # copy ACL to path
 cp -f blackweb.txt $route/blackweb.txt >/dev/null 2>&1
 echo
-echo "${cm12[${es}]}"
+echo "${cm13[${es}]}"
 # reload Squid-Cache
 # First you must edit /etc/squid/squid.conf and add lines:
 # acl blackweb dstdomain -i "/path_to/blackweb.txt"
@@ -250,9 +257,10 @@ echo "${cm12[${es}]}"
 squid -k reconfigure 2> SquidError.txt && grep "$(date +%Y/%m/%d)" /var/log/squid/cache.log | grep -oiE "$regexd" | sed -r '/\.(log|conf|crl|js|state)/d' | sort -u >> SquidError.txt && sort -o SquidError.txt -u SquidError.txt
 python tools/debug_error.py
 cp -f clean.txt $route/blackweb.txt >/dev/null 2>&1
+squid -k reconfigure 2> $xdesktop/SquidError.txt
 # END
 cd
 rm -rf $bwupdate
 echo
-echo "${cm13[${es}]}"
 echo "${cm14[${es}]}"
+echo "${cm15[${es}]}"

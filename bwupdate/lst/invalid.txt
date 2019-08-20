@@ -2445,6 +2445,7 @@
 .athar19.htm
 .athbasketballsch.asp
 .ath.cx
+.Ath.Cx
 .athdet.asp
 .athea.html
 .athena.htm
@@ -3278,6 +3279,7 @@
 .braphyls.bit
 .braque2.htm
 .bras--and--panties.aspx
+.brasil.html
 .brassie.htm
 .brave.js
 .braves.html
@@ -4677,8 +4679,12 @@
 .default.aspx
 .default.aspxrefererident
 .default.cfm
+.defaulte.htm
 .default.htm
+.default.HTM
+.Default.htm
 .default.html
+.Default.html
 .default.php
 .defaults.php
 .defaultst.htm
@@ -8614,6 +8620,7 @@
 .kelpie.html
 .kelvin.bates
 .kelv.scr
+.Kelv.scr
 .kemp.html
 .kenito.bubbyone
 .kenko.exe
@@ -8637,6 +8644,7 @@
 .key.html
 .keyingred.html
 .keymaker.rar
+.Keymaker.rar
 .keyrun.php
 .keystone1.htm
 .keyworth.turkeytrot
@@ -8690,6 +8698,7 @@
 .k-ito.html
 .kitrib.html
 .kitten.html
+.Kitten.jpg
 .kittens.html
 .kittens.php
 .kiwis.html
@@ -12454,9 +12463,14 @@
 .rk2n1.exe
 .rkb2ejfqm2u72etu2h7e0w8u.php
 .rkvvj2i5w97hn1jv5h6abac1c1yzffonqaiz2quopqw4hfobmjcek6nvtdrz.bureni
+.Rl129.jpg
+.Rl142.jpg
 .rl143.jpg
+.Rl143.jpg
 .rl145.jpg
+.Rl145.jpg
 .rl146.jpg
+.Rl146.jpg
 .rlewis.html
 .rlhcmai.htm
 .rlring.htm
@@ -12512,6 +12526,7 @@
 .rollerskaters.html
 .rolling.htm
 .roman.doc
+.Roman.doc
 .ronsoft3.htm
 .ron.strutt
 .rooseveltathwintersports.htm
@@ -12534,6 +12549,7 @@
 .rotorua.aikido
 .rot.shtml
 .rougec.xls
+.Rougec.xls
 .roulette.html
 .roulett.htm
 .roumingvideo.php
@@ -12612,6 +12628,7 @@
 .runinjuries.htm
 .run-minerva-run.html
 .running.gif
+.Running.gif
 .running.htm
 .runningwatersfarm.htm
 .runpludll.jpg
@@ -12638,6 +12655,7 @@
 .rw.bicknell
 .rwcdcglsism.bit
 .rwgatgj.gif
+.RwGATgJ.gif
 .rw.html
 .rwjjsamgeqo.bit
 .rwmfodysmvbv.bit
@@ -12652,9 +12670,11 @@
 .s1.html
 .s1.php
 .s26x45lr87.jpg
+.S26x45lR87.jpg
 .s4yxaqyq95.fuk
 .s5d70s821z5n71x87yj3plen.php
 .s6awwrtud7.jpg
+.S6awWrTUD7.jpg
 .saab.htm
 .sabac.dll
 .sableforest.html
@@ -12679,10 +12699,13 @@
 .safeonline.html
 .saferoutes.html
 .saferscansetup.exe
+.SaferScanSetup.exe
 .safesex.html
 .safesurf.exe
 .safetyantispyware.exe
+.SafetyAntiSpyware.exe
 .safevaccinefsetupnd.exe
+.SAFEVACCINEFSetupND.exe
 .sagafarm1.html
 .sagaintropage.html
 .sagw.htm
@@ -12981,7 +13004,9 @@
 .serviciosrespuesta.asp
 .sesame-tofu.htm
 .sesso.gnocca
+.SET1.tmp
 .set2.tmp
+.SET2.tmp
 .set-constant.js
 .set-en-f.htm
 .set.ini
@@ -13248,6 +13273,7 @@
 .sir.html
 .sirius.jpr
 .sisdetect.jpg
+.SISDETECT.jpg
 .siski.jpg
 .sisron.txt
 .site-1201.htm
@@ -13274,6 +13300,7 @@
 .sjac.htm
 .sjfc.htm
 .sj.gif
+.SJ.gif
 .sjnnxewtpicxdpkpuj.bit
 .sjshark.html
 .sju7sqqjmu.jpg
@@ -13291,6 +13318,7 @@
 .skating.html
 .skating-index2.html
 .skdflksajflasjflf.tmp
+.SKDFLKSAJFLASJFLF.tmp
 .skelbimu-lenta.left
 .sk.htm
 .ski1.htm
@@ -13573,6 +13601,7 @@
 .sport.jsp
 .sportmain.php
 .sporto-kodas-baneris.jpg
+.SPORTO-KODAS-BANERIS.jpg
 .sportpage.cfm
 .sport.php
 .sport.phtml
@@ -13644,6 +13673,7 @@
 .ss.php
 .ssp.mezzo
 .s-sportas.gif
+.S-Sportas.gif
 .sss.exe
 .sssss.exe
 .sssurvivor.htm
@@ -13941,6 +13971,7 @@
 .svetcopy1.png
 .svetkaeng.htm
 .svqlsyo.gif
+.SVQlSyO.gif
 .svsc.htm
 .svstrrbpybjfmmrwjcrly.bit
 .svsymffnac.bit
@@ -13971,6 +14002,8 @@
 .sws.asp
 .swwklftfwkkhngmhwj.bit
 .swxjc7yzbk.jpg
+.SWXjC7yzbK.jpg
+.SX64a9qr5O.jpg
 .sxclp.php
 .sxdykqchgclqxdgtjt.bit
 .sxlapvuanmtbcg.bit
@@ -14438,12 +14471,14 @@
 .toptenwrap.jsp
 .toptoon.html
 .torpedo.gif
+.Torrent.html
 .torrents-13-wii.html
 .torrents-1-juegos-de-pc.html
 .torrents-6-peliculas-xxx.html
 .torrents-6-psp.html
 .torrents-8-zona-xxx.html
 .torrents-9-xbox-360.html
+.Torrents.html
 .torrents.php
 .torture2.jpg
 .torture.html
@@ -14530,6 +14565,7 @@
 .trading.htm
 .trad.siamezen
 .trailer2.wmv
+.Trailer2.WMV
 .trailer.htm
 .trail.htm
 .trails.htm
@@ -14597,6 +14633,8 @@
 .trouble.html
 .troy1.htm
 .troyalanmartin.html
+.troy.exe
+.trqrrkk.exe
 .trskdmgbv.bit
 .truck.html
 .truck-racing.html
@@ -14610,6 +14648,7 @@
 .truelove8.htm
 .truelove9.htm
 .trueswordsa3.gif
+.trusteer.exe
 .trustfighter.php
 .trustpass.html
 .trustsoldier.php
