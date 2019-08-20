@@ -153,6 +153,7 @@
 .btscene2.com
 .bubbleexpont.com
 .budurl.co
+.bullguard.com
 .bullhostingprizesim.com
 .bumlam.com
 .buttonoklmclip.com
@@ -415,6 +416,7 @@
 .filmdestinationadvisorsincorporated.com
 .filterbypass.me
 .filtersplusfl.com
+.finchvpn.com
 .firekwikcollegemultimedia.com
 .fitshr.com
 .flashtalking.com
@@ -442,9 +444,14 @@
 .freecontent.loan
 .freecontent.racing
 .freeexperiencelightningcat.com
+.freelan.org
 .freenetproject.org
+.freeopenvpn.org
 .free-proxy-list.net
 .freeproxyserver.co
+.freevpn4you.net
+.freevpnaccess.com
+.freevpn.me
 .freewarefiles.com
 .frerusdimannsia.com
 .frontberrygraphicafter.com
@@ -473,6 +480,7 @@
 .geocities.com
 .geo-svc.com
 .geti2p.net
+.getprivate.net
 .gfbunit.com
 .gg.gg
 .giv.to
@@ -513,7 +521,9 @@
 .heroesofrpg.com
 .hhtxnet.com
 .hi5.com
+.hidden24.co.uk
 .hideipprivacy.com
+.hideman.net
 .hide.me
 .hideme.be
 .hidemyass.com
@@ -542,6 +552,7 @@
 .hopto.org
 .hostscrunchphonemanager.com
 .hotfile.com
+.hotfreevpn.com
 .hotfrog.at
 .hotfrog.ca
 .hotfrog.ch
@@ -636,6 +647,7 @@
 .kaffnet.com
 .kambicdn.com
 .kambi.com
+.kernvpn.com
 .key-find.com
 .kickass.cd
 .kickstarter.com
@@ -956,6 +968,7 @@
 .predocontentdelivery.info
 .preyproject.com
 .privateinternetaccess.com
+.privatetunnel.com
 .privatevpn.com
 .privatizehealthinsurance.net
 .probusinesshub.com
@@ -963,8 +976,10 @@
 .profitssmsdirectoryzones.com
 .prosonopenpainting.com
 .protect.re
+.protonvpn.com
 .proxfree.com
 .proxify.com
+.proxpn.com
 .proxy4free.com
 .proxybrowser.xyz
 .proxy-checker.org
@@ -990,6 +1005,7 @@
 .pumaskill.com
 .punchsub.nets
 .purchasetagoldcancer.com
+.purevpn.com
 .qatarindofarmmanage.com
 .q.gs
 .qlink.me
@@ -1015,6 +1031,7 @@
 .reactor.cc
 .readability.com
 .read-books.org
+.realfreevpn.com
 .real-hide-ip.com
 .realhotauctionquote.com
 .reasedoper.pw
@@ -1148,6 +1165,7 @@
 .socksproxychecker.com
 .socks-proxy.net
 .soft32.com
+.softether.org
 .softonic.com
 .softpedia.com
 .solutiontrycapitalfy.com
@@ -1157,6 +1175,7 @@
 .sourceforge.net
 .sourcingphoenixbondmc.com
 .speakjsscreenin.com
+.speedify.com
 .spidermainfacebookrus.com
 .spiritrhythmband.com
 .splatno-17.ml
@@ -1193,10 +1212,13 @@
 .sumo.ly
 .sunfrenchnavibc.com
 .sunkauf.de
+.superfreevpn.com
 .super-gamezer.com
 .superhideip.com
 .superluchas.com
 .suprafiles.me
+.surfeasy.com
+.surfshark.com
 .surl.im
 .sweet-page.com
 .swexcellentsnetlg.com
@@ -1221,6 +1243,7 @@
 .tattootheoryhappynumber.com
 .tawk.to
 .t.co
+.tcpvpn.com
 .teads.tv
 .teenplanet.org
 .telerik.com
@@ -1329,6 +1352,7 @@
 .uploadstation.com
 .uptobox.com
 .uptodown.com
+.urban-vpn.com
 .urchintelemetry.com
 .urladda.co
 .urlbaba.com
@@ -1373,8 +1397,13 @@
 .vk.com
 .voipdistributor.net
 .vpnbook.com
+.vpndefender.com
+.vpngate.net
+.vpnjantit.com
+.vpnmentor.com
 .vrcam.info
 .vurl.com
+.vyprvpn.com
 .waa.ai
 .walkgzmysticra.com
 .wallstreetatlanticbooth.com
@@ -1387,9 +1416,11 @@
 .webminepool.com
 .webminepool.tk
 .webmine.pro
+.webopeoxy.com
 .weborama.com
 .webproxy.net
 .webproxy.to
+.websitevpn.com
 .webssearches.com
 .wechat.com
 .weddingcomicsbenflyer.com
@@ -1410,6 +1441,7 @@
 .widdit.com
 .wif.red
 .windbureauprefile.com
+.windscribe.com
 .wiredtaowestcoasttk.com
 .wish.com
 .womenalia.com
@@ -1468,6 +1500,7 @@
 .zemanta.com
 .zend2.com
 .zenmate.com
+.zenvpn.net
 .zipleisurefansstyles.com
 .zippyshare.com
 .zkmobi.com
@@ -1475,5 +1508,6 @@
 .zoneiasiteoh.com
 .zophar.net
 .zorpia.com
+.zpn.im
 .zukxd6fkxqn.com
 .zzbuckettownrock.com
