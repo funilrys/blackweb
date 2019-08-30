@@ -146,6 +146,7 @@
 .brasilia.me
 .bridaluuartsviet.com
 .bridgetoneshotelregistry.com
+.brightcove.com
 .brothersluncharticlesido.com
 .brothersoft.com
 .browseranalytic.com
@@ -238,6 +239,7 @@
 .conferencepierandomvitamin.com
 .connectedglobalgroup.com
 .consensu.org
+.conviva.com
 .cookiescriptcdn.pros
 .cookiescript.infos
 .corneey.com
@@ -272,6 +274,7 @@
 .cxvnbcaj.info
 .cyberghostvpn.com
 .d19ya6dk74n9uf.cloudfront.net
+.d2c87l0yth4zbw.cloudfront.net
 .dailyanimalgames.com
 .dailymotion.com
 .dailyuploads.net
@@ -298,6 +301,7 @@
 .differentia.ru
 .digitalforfreecomputer.com
 .directorio-w.com
+.directvnow.com
 .disorderstatus.ru
 .ditchyourip.com
 .dit-inc.us
@@ -404,7 +408,6 @@
 .fb.me
 .fbsbx.com
 .fcfan.org
-.fc.lcZN29Aj
 .feedvoxnjhop.com
 .filecloud.io
 .filecrypt.cc
@@ -502,6 +505,7 @@
 .govtsmartjob.com
 .gpsonextra.net
 .graphicvinevinemint.com
+.gravatar.com
 .gridriverdynamicscareer.com
 .groot-cdn.com
 .groovesharks.org
@@ -831,6 +835,7 @@
 .ndwidecaltrips.com
 .ne8.org
 .negar.cc
+.netflix.com
 .net-freaks.com
 .netlog.com
 .nevadaaustrategyengineer.com
@@ -843,6 +848,10 @@
 .newyorkistportableprecision.com
 .nexage.com
 .nflfan.org
+.nflxext.com
+.nflximg.com
+.nflximg.net
+.nflxvideo.net
 .nhlfan.net
 .nincsmail.com
 .ninecablepageskindle.com
@@ -939,6 +948,9 @@
 .placestealthmbsharp.com
 .platinumhideip.com
 .playerassets.info
+.plexapp.com
+.plex.bz
+.plex.tv
 .plreciperevan.com
 .plusisokioskinfinity.com
 .pmswitchbdviewer.com
@@ -1068,6 +1080,7 @@
 .rmhhtypevip.com
 .roboindustriespotranking.com
 .rocks.io
+.rockstargames.com
 .rod.gs
 .roponwithro.com
 .rosbusiness.eu
@@ -1147,6 +1160,8 @@
 .siteco.com.co
 .skwostarsleaf.com
 .skyrock.com
+.slack.com
+.slack-edge.com
 .slink.co
 .s-links.org
 .smardroid.com
@@ -1169,11 +1184,13 @@
 .softonic.com
 .softpedia.com
 .solutiontrycapitalfy.com
+.sonarr.tv
 .sonico.com
 .sosdangereolien.com
 .soundcloud.com
 .sourceforge.net
 .sourcingphoenixbondmc.com
+.spapps.co
 .speakjsscreenin.com
 .speedify.com
 .spidermainfacebookrus.com
@@ -1182,6 +1199,7 @@
 .sports-collectors.com
 .spotbros.com
 .spotify.com
+.spotify.edgekey.net
 .spot.ify.me
 .spotxchange.com
 .spotx.tv
@@ -1253,9 +1271,11 @@
 .tfbnw.net
 .thebestfurnitureidea.tk
 .thebrighttag.com
+.themoviedb.com
 .thepiratebay3.org
 .thepiratebay-proxylist.org
 .therapyggmaxca.com
+.thetvdb.com
 .theurl.co
 .thinkmeddeluxebaby.com
 .thisisodoptionzz.com
@@ -1320,6 +1340,7 @@
 .turnsocial.now.sh
 .tusfiles.com
 .tu.tv
+.twimg.com
 .twitter.co
 .twitter.com
 .twitterghnfcbingo.com
@@ -1383,11 +1404,13 @@
 .vidadivinapioneros.com
 .vidd.ws
 .videoschistososdivertidos.com
+.vidible.tv
 .vietnamnewjerseypigluxe.com
 .viewerduckcalifornianeeds.com
 .viewsaddsiliconhelper.com
 .viewsshiftcruiseant.com
 .viglink.com
+.vimeocdn.com
 .vimeo.com
 .vindicosuite.com
 .vine.co

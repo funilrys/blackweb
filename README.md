@@ -9,7 +9,7 @@
 
 |ACL|Black Domains|txt size|tar.gz size|
 |---|-------------|--------|-----------|
-|blackweb.txt|3.843.461|87.2 MB|19.6 MB|
+|blackweb.txt|3.867.256|87.7 MB|19.8 MB|
 
 ### DEPENDENCIAS / DEPENDENCIES
 ---
@@ -47,18 +47,10 @@ wget -q -N https://raw.githubusercontent.com/maravento/blackweb/master/bwupdate/
 ##### Advertencia / Warning
 
 - Antes de utilizar **bwupdate.sh** debe activar la regla en [Squid-Cache](http://www.squid-cache.org/) / You must activate the rule in [Squid-Cache](http://www.squid-cache.org/) before using **bwupdate.sh**
-- Para reducir el tamaño de **blackweb** (eliminando dominios inactivos/muertos/inválidos) puede utilizar [PyFunceble](https://github.com/funilrys/PyFunceble) (Rápida pero inestable) o [httpstatus](https://github.com/maravento/blackweb/raw/master/bwupdate/tools/httpstatus.sh) (Lenta pero Estable. Incluida) / To reduce the size of **blackweb** (eliminating inactive/dead/invalid domains) can use [PyFunceble](https://github.com/funilrys/PyFunceble) (Fast but unstable) or [httpstatus](https://github.com/maravento/blackweb/raw/master/bwupdate/tools/httpstatus.sh) (Slow but Stable. Included)
+- Para reducir el tamaño de **blackweb** (eliminando dominios inactivos/muertos/inválidos) puede utilizar la herramienta [httpstatus](https://github.com/maravento/blackweb/raw/master/bwupdate/tools/httpstatus.sh) / To reduce the size of **blackweb** (eliminating inactive/dead/invalid domains) can use [httpstatus](https://github.com/maravento/blackweb/raw/master/bwupdate/tools/httpstatus.sh)
 - El proceso de actualización y depuración de **blackweb** puede tardar mucho tiempo y consumir muchos recursos de hardware y ancho de banda / The process of updating and debugging of **blackweb** can take a long time and consume many hardware resources and bandwidth
 - El path por default de **blackweb** es **/etc/acl**. Puede cambiarlo por el directorio de su preferencia / The default path of **blackweb** is **/etc/acl**. You can change it by the directory of your preference
-- **bwupdate.sh** no incluye clouds (Mega, Dropbox, Pcloud, iCloud, etc) o de soporte remoto (Teamviewer, Anydesk, logmein, etc), excepto si ya vienen bloqueados desde las [FUENTES](https://github.com/maravento/blackweb#fuentes--sources). Para bloquearlos o excluirlos debe activar la línea según su elección: / **bwupdate.sh** does not include clouds (Mega, Dropbox, Pcloud, iCloud, etc) or remote support (Teamviewer, Anydesk, logmein, etc), except if they are already blocked from the [SOURCES](https://github.com/maravento/blackweb#fuentes--sources). To block or exclude them you must activate the line according to your choice:
-
-```
-# JOIN LIST
-# unblock
-#sed '/^$/d; /#/d' lst/{cloudsync,remoteurls}.txt | sort -u >> urls.txt
-# block
-#sed '/^$/d; /#/d' lst/{cloudsync,remoteurls}.txt | sort -u >> bwtmp/bw.txt
-```
+- **bwupdate.sh** no incluye cloud/sync (Mega, Dropbox, Pcloud, iCloud, etc), soporte remoto (Teamviewer, Anydesk, logmein, etc) o dominios relacionados con telemetría, excepto si ya vienen bloqueados desde las [FUENTES](https://github.com/maravento/blackweb#fuentes--sources). Para bloquearlos o excluirlos debe activar las líneas en el script (# JOIN LIST), aunque se recomenda agregarlas manualmente a blackweb para evitar conflictos o falsos positivos / **bwupdate.sh** does not include cloud/sync (Mega, Dropbox, Pcloud, iCloud, etc) or remote support (Teamviewer, Anydesk, logmein, etc), or domains related to telemetry, except if they are already blocked from the [SOURCES](https://github.com/maravento/blackweb#fuentes--sources). To block or exclude them you must activate the lines in the script (# JOIN LIST), although it is recommended to add them manually to blackweb to avoid conflicts or false positives
 
 ### REGLA [Squid-Cache](http://www.squid-cache.org/) / [Squid-Cache](http://www.squid-cache.org/) RULE
 ---
@@ -103,7 +95,7 @@ http_access deny blackweb
 
 [Anti-WebMiner](https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/blacklist.txt)
 
-[anudeepND](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)
+[anudeepND Blacklist](https://github.com/anudeepND/blacklist) (included: [coinminer](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt), [adservers](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt))
 
 [BambenekConsulting](http://osint.bambenekconsulting.com/feeds/dga-feed.txt)
 
@@ -227,13 +219,17 @@ http_access deny blackweb
 
 [WhiteURLs](https://github.com/maravento/blackweb/raw/master/bwupdate/lst/whiteurls.txt)
 
+[Inactive](https://raw.githubusercontent.com/maravento/blackweb/master/bwupdate/lst/inactive.txt)
+
+[Invalid](https://raw.githubusercontent.com/maravento/blackweb/master/bwupdate/lst/invalid.txt)
+
+###### Optionals
+
 [CloudSync](https://github.com/maravento/blackweb/raw/master/bwupdate/lst/cloudsync.txt)
 
-[RemoteURLs](https://github.com/maravento/blackweb/raw/master/bwupdate/lst/remoteurls.txt)
+[Remote](https://github.com/maravento/blackweb/raw/master/bwupdate/lst/remote.txt)
 
-[Invalid Domains](https://raw.githubusercontent.com/maravento/blackweb/master/bwupdate/lst/invalid.txt)
-
-[Inactive Domains](https://raw.githubusercontent.com/maravento/blackweb/master/bwupdate/lst/inactive.txt)
+[Telemetry](https://github.com/maravento/blackweb/raw/master/bwupdate/lst/telemetry.txt)
 
 ###### Externals
 
@@ -246,8 +242,6 @@ http_access deny blackweb
 [University Domains and Names Data List](https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json)
 
 [TLDs](https://raw.githubusercontent.com/maravento/tlds/master/tlds.txt)
-
-[BadTLDs](https://raw.githubusercontent.com/maravento/tlds/master/badtlds.txt)
 
 ##### Tools
 
@@ -267,6 +261,7 @@ http_access deny blackweb
 ---
 
 Agradecemos a todos aquellos que han contribuido a este proyecto. Los interesados pueden contribuir, enviándonos enlaces de nuevas listas, para ser incluidas en este proyecto / We thank all those who have contributed to this project. Those interested can contribute, sending us links of new lists, to be included in this project
+
 Special thanks to: [Jhonatan Sneider](https://github.com/sney2002)
 
 ### DONACION / DONATE

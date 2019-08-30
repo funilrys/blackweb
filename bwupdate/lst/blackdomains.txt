@@ -1,9 +1,10 @@
 # google
-.adservice.google.com.co
 .ggpht.com
 .goo.gl
-.googlevideo.com
 .play.google.com
+.googlevideo.com
+.rewind.youtube
+.video-stats.l.google.com
 .youtu.be
 .youtube.com
 .youtube.com.br
@@ -13,12 +14,13 @@
 .youtube.googleapis.com
 .youtubei.googleapis.com
 .youtube.it
+.youtube.l.google.com
 .youtube.nl
 .youtube-nocookie.com
 .youtube.ru
 .ytimg.com
+.ytimg.l.google.com
 # microsoft update
-.telemetry.microsoft.com
 .tlu.dl.delivery.mp.microsoft.com
 .update.microsoft.com
 .windowsupdate.com

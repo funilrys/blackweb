@@ -40,7 +40,7 @@ def parse_domain(url, levels=2):
     # Remove the initial dot
     return domain[1:]
 
-clean = set(d.strip() for d in open("lst/tlds.txt").readlines())
+clean = set(d.strip() for d in open("tlds.txt").readlines())
 valid = set(d.strip() for d in open('urls.txt').readlines())
 
 filename = 'bl.txt'
