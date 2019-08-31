@@ -20,7 +20,7 @@ monthtag=$(date +%m)
 # ******************
 # Set our Input File
 # ******************
-input=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
+input=${TRAVIS_BUILD_DIR}/blackweb.txt
 pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.yaml
 pyfuncebleProductionConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble_production.yaml
 
@@ -34,7 +34,7 @@ RunFunceble () {
 
     yeartag=$(date +%Y)
     monthtag=$(date +%m)
-    ulimit -u
+
     cd ${TRAVIS_BUILD_DIR}/dev-tools
 
     hash PyFunceble
@@ -45,7 +45,7 @@ RunFunceble () {
         rm "${pyfuncebleProductionConfigurationFileLocation}"
     fi
 
-    PyFunceble --travis -db -ex --dns 1.1.1.1 1.0.0.1 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" --plain --autosave-minutes 20 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
+    PyFunceble --travis --idna -ex --dns 1.1.1.1 1.0.0.1 --multiprocess --processes 40 --cmd "bash ${TRAVIS_BUILD_DIR}/dev-tools/incremental-commit.sh" --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/final-commit.sh" --plain --autosave-minutes 20 --commit-autosave-message "V1.0.${TRAVIS_BUILD_NUMBER} BLACKWEB [PyFunceble]" --commit-results-message "V1.0.${TRAVIS_BUILD_NUMBER} BLACKWEB" -f ${input}
 
 }
 

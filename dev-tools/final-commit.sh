@@ -1,8 +1,8 @@
 #!/bin/bash
-# Hosts file generator for Badd Boyz Hosts
+# Domain Testing for Blackweb
 # Created by: Mitchell Krog (mitchellkrog@gmail.com)
 # Copyright: Mitchell Krog - https://github.com/mitchellkrogza
-# Repo Url: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+# Repo Url: https://github.com/mitchellkrogza/blackweb
 # MIT License
 
 # ***********************************************************
@@ -18,6 +18,29 @@
 
 #bash ${TRAVIS_BUILD_DIR}/dev-tools/UpdateReadme.sh
 #bash ${TRAVIS_BUILD_DIR}/dev-tools/GenerateHostsFile.sh
+
+RunFinalCommit () {
+# ****************************************
+# Copy last tested files into root of repo
+# ****************************************
+
+
+statuses="ACTIVE INACTIVE INVALID"
+
+for status in $(echo ${statuses})
+do
+    statusFile="${TRAVIS_BUILD_DIR}/dev-tools/output/domains/${status}/list"
+
+    if [[ -f ${statusFile} ]]
+    then
+        cat ${statusFile} | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/domains-${status}-tested.txt
+    else
+        echo "" > ${TRAVIS_BUILD_DIR}/domains-${status}-tested.txt
+    fi
+done
+
+RunFinalCommit
+
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml
