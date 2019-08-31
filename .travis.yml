@@ -1,0 +1,40 @@
+addons:
+    apt:
+        packages:
+        - dos2unix
+cache:
+- pip
+dist: xenial
+env:
+  global:
+    - secure: j64L+YB6ZTOwP7joFBfSAMv6scssInUw91BgJqc/dRLU6nd4d2n8as4qYGbGPZ09nIYES+baD7W73WVr0Hljvnis2wKA36BcuzyLlcGugUtuDigVG/X5RDWs4EYh5URSOFO5j+I+2QKFWnYKydiQbnimBdTr3SEI9QBGFoywNVRUPaOquuyQwk3dYb7s4Fc8NHkNJF9xJ/dq+GrFIBmXHDuq7d+J2Ex2rZ5LADBiResASnMLSUNLtrtzOlMi5GE7cT6xKpnNigc2EpKmhQxrWG1/P9x+KgIQvMG+7fbYzmr076Hvl5DGvRW1JDW69fbXOTCZtXBjveDV79JFd9+KJnYbBaMD262ZJJ+zFwhUu+faKOZqejeO10VRJONda4q3RBfcFF21nZmFbuI3t/pJWJpXX8+r1/5/OkMhvuZf6HNIQhrk2kKEUx6yaPW5xjKQLCrFkEASgImRFDzKtr1XFmh3fJAGsU/WDbtgs8hZy8YiiHHtUYckTG8RjZTLulO8VM277L1tWubNKYDUEhfg+c5bovl/XomttnGuXm5Z0Cve9ZOBc6leOPwi4FP5WsAXpD9AxJDOE1215OxZRX0LxKOAHVfPLfjSLABPeCc6JnfoE1c5HWVQg7OAfMveleDdNaOemkDp3O5klOsOmD2w4E7CZUc2IBz2FbsZQ2ML61U=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: mitchellkrog@gmail.com
+    - TRAVIS_REPO_SLUG: mitchellkrogza/blackweb
+    - GIT_BRANCH: master
+    - TZ:       Africa/Johannesburg
+    - PYFUNCEBLE_CONFIG_DIR: ${TRAVIS_BUILD_DIR}/dev-tools/
+    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+
+language: python
+
+python:
+  - "3.7"
+
+matrix:
+  fast_finish: true
+
+sudo: required
+
+install:
+  - pip3 install --upgrade pip
+  - pip3 install PyFunceble
+  - pip3 install ultimate-hosts-blacklist-whitelist
+
+script:
+  # We put both in same statement so that if one fails the whole test result will fail.
+  - bash dev-tools/DataTesting.sh
+
+notifications:
+  on_success: never
+  on_failure: always
