@@ -33,7 +33,7 @@ install:
 
 script:
   # We put both in same statement so that if one fails the whole test result will fail.
-  - bash dev-tools/DataTesting.sh
+  - bash dev-tools/data-testing.sh
 
 notifications:
   on_success: never
